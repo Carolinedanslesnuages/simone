@@ -1,0 +1,10 @@
+[
+  { "id": "vote", "label": "Voter, être élue" },
+  { "id": "education", "label": "Apprendre, enseigner" },
+  { "id": "travail", "label": "Travailler, être payée" },
+  { "id": "corps", "label": "Disposer de son corps" },
+  { "id": "violences", "label": "Lutter contre les violences" },
+  { "id": "droits-civils", "label": "Droits civils, famille" },
+  { "id": "ecrire", "label": "Écrire, convaincre" },
+  { "id": "organiser", "label": "S'organiser" }
+]

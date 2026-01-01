@@ -1,0 +1,31 @@
+name: Constance
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  titre:
+    name: Titre de PR (Conventional Commits)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Carolinedanslesnuages/constance/titre-pr@v1
+
+  taille:
+    name: Taille des fichiers (une responsabilité par fichier)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: Carolinedanslesnuages/constance/taille-fichiers@v1
+
+  anti-fuite:
+    name: Anti-fuite (gitleaks)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          fetch-depth: 0
+      - uses: Carolinedanslesnuages/constance/anti-fuite@v1

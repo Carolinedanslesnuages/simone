@@ -1,0 +1,194 @@
+/* Simone: a French school notebook (Seyès ruling), turned page by page. */
+:root {
+  --desk: #e9e2d3;
+  --paper: #fffef6;
+  --ink: #1f2a5c;
+  --text: #22252e;
+  --muted: #4d5263;
+  --margin-line: #d9534f;
+  --thin-line: rgba(111, 143, 214, 0.28);
+  --thick-line: rgba(111, 143, 214, 0.6);
+  --vertical-line: rgba(160, 120, 200, 0.18);
+  --cover: #2f6f8f;
+  --label: #fffdf2;
+  --focus: #1f2a5c;
+  --hand: 'Caveat', 'Segoe Print', 'Bradley Hand', cursive;
+  --text-font: 'Atkinson Hyperlegible', 'Helvetica Neue', Arial, sans-serif;
+  --line: 2rem;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --desk: #15161c;
+    --paper: #23252f;
+    --ink: #b9c8ff;
+    --text: #ecedf3;
+    --muted: #c2c6d6;
+    --margin-line: #ff8a85;
+    --thin-line: rgba(150, 175, 240, 0.14);
+    --thick-line: rgba(150, 175, 240, 0.32);
+    --vertical-line: rgba(190, 160, 230, 0.1);
+    --cover: #1d4a60;
+    --label: #2b2d38;
+    --focus: #ffffff;
+    color-scheme: dark;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--desk);
+  color: var(--text);
+  font-family: var(--text-font);
+  font-size: 1.125rem;
+  line-height: var(--line);
+}
+
+a { color: var(--ink); text-underline-offset: 0.15em; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+main:focus, .page-title:focus { outline: none; }
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -4rem;
+  padding: 0.5rem 1rem;
+  background: var(--ink);
+  color: var(--paper);
+  z-index: 10;
+}
+.skip-link:focus { top: 1rem; }
+
+.site-header, main, .site-footer { max-width: 72rem; margin: 0 auto; padding: 0 1rem; }
+
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 2rem;
+  padding-top: 1rem;
+}
+.site-name { margin: 0; font-family: var(--hand); font-size: 3rem; line-height: 1.2; }
+.site-name a { color: var(--ink); text-decoration: none; }
+.site-header nav ul { display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; margin: 0; padding: 0; list-style: none; }
+.site-header nav a[aria-current='page'] { font-weight: 700; text-decoration-thickness: 3px; }
+
+main { padding-top: 1rem; padding-bottom: 2rem; }
+
+h1, h2 { font-family: var(--hand); color: var(--ink); font-weight: 700; }
+h1 { font-size: 2.75rem; line-height: 1.2; margin: 0 0 0.5rem; text-decoration: underline var(--margin-line) 3px; text-underline-offset: 0.2em; }
+h2 { font-size: 1.9rem; line-height: var(--line); margin: var(--line) 0 0; }
+p, ul, ol { margin: 0 0 var(--line); }
+
+/* The ruled paper: thin lines every 8 px, thick ones every 32 px, a red margin. */
+.sheet {
+  position: relative;
+  padding: var(--line) 1.25rem var(--line) 3.5rem;
+  background-color: var(--paper);
+  background-image:
+    linear-gradient(90deg, transparent 2.5rem, var(--margin-line) 2.5rem, var(--margin-line) calc(2.5rem + 2px), transparent calc(2.5rem + 2px)),
+    repeating-linear-gradient(to bottom, transparent 0 calc(var(--line) - 1px), var(--thick-line) calc(var(--line) - 1px) var(--line)),
+    repeating-linear-gradient(to bottom, transparent 0 calc(var(--line) / 4 - 1px), var(--thin-line) calc(var(--line) / 4 - 1px) calc(var(--line) / 4)),
+    repeating-linear-gradient(to right, transparent 0 calc(var(--line) - 1px), var(--vertical-line) calc(var(--line) - 1px) var(--line));
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+.sheet-single { max-width: 48rem; margin: 0 auto; }
+
+.book { perspective: 2400px; }
+.spread { display: grid; grid-template-columns: 1fr; gap: 0; }
+@media (min-width: 60rem) {
+  .spread { grid-template-columns: 1fr 1fr; }
+  .sheet-left { border-radius: 6px 0 0 6px; box-shadow: inset -14px 0 18px -14px rgba(0, 0, 0, 0.35), 0 2px 10px rgba(0, 0, 0, 0.15); }
+  .sheet-right { border-radius: 0 6px 6px 0; box-shadow: inset 14px 0 18px -14px rgba(0, 0, 0, 0.35), 0 2px 10px rgba(0, 0, 0, 0.15); }
+}
+
+.school-date { font-family: var(--hand); font-size: 1.6rem; color: var(--ink); text-align: right; margin: 0 0 var(--line); }
+.identity { color: var(--muted); font-style: italic; }
+.summary { font-weight: 700; }
+
+.actions { list-style: none; padding: 0; }
+.actions li { margin-bottom: calc(var(--line) / 2); }
+.action-date { display: block; font-weight: 700; color: var(--ink); }
+.action-theme { display: block; color: var(--muted); font-style: italic; font-size: 1rem; }
+.action-text { display: block; }
+.sources { padding-left: 1.25rem; font-size: 1rem; }
+
+.page-turn {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
+  margin-top: 1rem;
+}
+.page-turn a[rel='next'] { margin-left: auto; }
+.page-number { margin: 0; font-family: var(--hand); font-size: 1.5rem; color: var(--ink); }
+.keyboard-hint { font-size: 1rem; color: var(--muted); margin: 0.5rem 0 0; }
+
+/* Page turning. Without animation when the reader asks for reduced motion. */
+.turn-forward-enter-active, .turn-forward-leave-active,
+.turn-backward-enter-active, .turn-backward-leave-active { transition: transform 0.35s ease, opacity 0.35s ease; }
+.turn-forward-leave-to { transform: rotateY(-75deg); transform-origin: left center; opacity: 0; }
+.turn-forward-enter-from { transform: rotateY(25deg); transform-origin: left center; opacity: 0; }
+.turn-backward-leave-to { transform: rotateY(75deg); transform-origin: right center; opacity: 0; }
+.turn-backward-enter-from { transform: rotateY(-25deg); transform-origin: right center; opacity: 0; }
+@media (prefers-reduced-motion: reduce) {
+  .turn-forward-enter-active, .turn-forward-leave-active,
+  .turn-backward-enter-active, .turn-backward-leave-active { transition: none; }
+}
+
+/* The cover: blue cardboard with a white label. */
+.cover {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  background: var(--cover);
+  border-radius: 8px 14px 14px 8px;
+  box-shadow: inset 10px 0 0 rgba(0, 0, 0, 0.18), 0 4px 16px rgba(0, 0, 0, 0.25);
+  color: #ffffff;
+}
+.cover-label {
+  padding: 1.25rem 1.5rem;
+  background: var(--label);
+  color: var(--text);
+  border: 3px double var(--ink);
+  border-radius: 14px;
+}
+.cover-label h1 { text-align: center; }
+.cover-label p { margin: 0; }
+.label-field { font-family: var(--hand); font-size: 1.5rem; color: var(--ink); }
+.cover-intro { margin: 2rem 0; font-size: 1.25rem; }
+.cover-actions { display: flex; flex-direction: column; gap: 1rem; align-items: flex-start; margin: 0; }
+.cover a { color: #ffffff; }
+.cover .button {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  background: var(--label);
+  color: var(--ink);
+  font-family: var(--hand);
+  font-size: 1.75rem;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.search label { display: block; font-weight: 700; }
+.search input {
+  width: 100%;
+  max-width: 24rem;
+  padding: 0.25rem 0.5rem;
+  font: inherit;
+  color: var(--text);
+  background: var(--paper);
+  border: 2px solid var(--ink);
+}
+.count { font-weight: 700; }
+.contents { list-style: none; padding: 0; }
+.contents-meta { color: var(--muted); font-size: 1rem; margin-left: 0.5rem; }
+
+.site-footer { padding-bottom: 2rem; font-size: 1rem; }

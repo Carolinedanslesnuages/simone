@@ -1,0 +1,59 @@
+name: Site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  # Chaque nuit : une chronique datée du jour apparaît.
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  construire:
+    name: Construire et vérifier (chroniques, parcours, RGAA)
+    # Ubuntu 24.04 fixé : Playwright 1.56 ne prend pas en charge Ubuntu 26.04 (ubuntu-latest).
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      # Chaque chronique suit le schéma et cite ses sources.
+      - run: npm test
+      - run: npm run build
+      - name: Installer Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Vérifier le site dans le navigateur (parcours + RGAA)
+        run: |
+          npx vite preview --port 4173 &
+          npx wait-on@8.0.1 -t 30000 http://localhost:4173/
+          npm run test:browser
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: ./dist
+
+  publier:
+    name: Publier sur GitHub Pages
+    needs: construire
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - name: Publier
+        id: deploiement
+        uses: actions/deploy-pages@v4

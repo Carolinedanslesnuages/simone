@@ -1,0 +1,44 @@
+{
+  "name": "Marie Stopes",
+  "birth": "1880",
+  "death": "1958",
+  "country": "Royaume-Uni",
+  "region": "europe",
+  "published": "2026-01-01",
+  "summary": "Elle a ouvert la première clinique de contraception du Royaume-Uni, en 1921.",
+  "chronicle": [
+    "Le 17 mars 1921, à Londres, Marie Stopes ouvre la Mothers' Clinic avec son mari, Humphrey Verdon Roe. L'adresse : 61 Marlborough Road, dans le quartier de Holloway.",
+    "C'est la première clinique de contraception du Royaume-Uni. Elle est gratuite pour les femmes mariées. En 1925, la clinique déménage à Whitfield Street.",
+    "Il faut aussi dire une chose moins glorieuse. Marie Stopes défendait l'eugénisme : elle voulait stériliser les personnes jugées « inaptes » à être parents. En 2020, l'organisation qui portait son nom l'a abandonnée pour cette raison et s'appelle désormais MSI Reproductive Choices."
+  ],
+  "actions": [
+    {
+      "date": "1921-03-17",
+      "theme": "corps",
+      "text": "Ouvre à Londres la Mothers' Clinic, première clinique de contraception du Royaume-Uni, gratuite pour les femmes mariées."
+    },
+    {
+      "date": "1925",
+      "theme": "corps",
+      "text": "La clinique déménage à Whitfield Street."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mothers' Clinic (Embryo Project, Arizona State University)",
+      "url": "https://embryo.asu.edu/pages/mothers-clinic"
+    },
+    {
+      "title": "Marie Stopes (Britannica)",
+      "url": "https://www.britannica.com/biography/Marie-Stopes"
+    },
+    {
+      "title": "Plaque de la Mothers' Clinic (Historical Marker Database)",
+      "url": "https://www.hmdb.org/m.asp?m=115925"
+    },
+    {
+      "title": "MSI announces new name as it launches a new strategy (MSI Reproductive Choices)",
+      "url": "https://www.msichoices.org/latest/marie-stopes-international-announces-new-name-as-it-launches-a-new-strategy/"
+    }
+  ]
+}
