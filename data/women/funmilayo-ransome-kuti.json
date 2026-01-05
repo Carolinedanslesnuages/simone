@@ -1,0 +1,47 @@
+{
+  "name": "Funmilayo Ransome-Kuti",
+  "birth": "1900",
+  "death": "1978",
+  "country": "Nigeria",
+  "region": "afrique",
+  "published": "2026-01-05",
+  "summary": "Elle a uni les femmes d'Abeokuta contre des impôts injustes, jusqu'à faire abdiquer le roi.",
+  "chronicle": [
+    "À Abeokuta, au Nigeria, Funmilayo Ransome-Kuti fonde en 1932 l'Abeokuta Ladies Club. Au début, c'est un club. Il va devenir une force.",
+    "En 1946, le club devient l'Abeokuta Women's Union. Elle en est la première présidente. La même année, les femmes se révoltent contre les impôts injustes qui les frappent.",
+    "La révolte dure environ trois ans. En 1949, l'Alake, le roi d'Abeokuta, abdique. Les femmes ont gagné. L'union devient alors le Nigerian Women's Union.",
+    "En 1953 naît la Federation of Nigerian Women's Societies. Des femmes du Nord lui écrivent pour parler de leur campagne pour voter."
+  ],
+  "actions": [
+    {
+      "date": "1932",
+      "theme": "organiser",
+      "text": "Elle fonde l'Abeokuta Ladies Club."
+    },
+    {
+      "date": "1946",
+      "theme": "organiser",
+      "text": "Le club devient l'Abeokuta Women's Union, dont elle est la première présidente. La révolte des femmes contre des impôts injustes commence."
+    },
+    {
+      "date": "1949",
+      "theme": "droits-civils",
+      "text": "Après environ trois ans de révolte, l'Alake d'Abeokuta abdique. L'union devient le Nigerian Women's Union."
+    },
+    {
+      "date": "1953",
+      "theme": "organiser",
+      "text": "Naissance de la Federation of Nigerian Women's Societies."
+    }
+  ],
+  "sources": [
+    {
+      "title": "How Funmilayo Ransome-Kuti championed women's rights (New Lines Magazine)",
+      "url": "https://newlinesmag.com/essays/how-funmilayo-ransome-kuti-championed-womens-rights/"
+    },
+    {
+      "title": "Funmilayo Ransome-Kuti (Encyclopaedia Britannica)",
+      "url": "https://www.britannica.com/print/article/1971534"
+    }
+  ]
+}
