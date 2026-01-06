@@ -1,0 +1,40 @@
+{
+  "name": "Madeleine Pelletier",
+  "birth": "1874",
+  "death": "1939",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-01-06",
+  "summary": "Elle a obtenu d'être l'une des deux premières femmes internes des asiles et a milité pour le vote et la contraception.",
+  "chronicle": [
+    "En 1902, Madeleine Pelletier veut passer le concours de l'internat des asiles. On le lui refuse. Le concours est réservé aux personnes « jouissant de leurs droits politiques ».",
+    "Elle ne renonce pas. En 1903, avec l'appui de Marguerite Durand et de son journal « La Fronde », elle est admise et nommée, au 10e rang. Constance Pascal est reçue la même année, au 8e rang. Ce sont les deux premières femmes internes des asiles.",
+    "Madeleine Pelletier milite aussi pour le droit de vote des femmes et pour la contraception. Elle dirige un groupe féministe, « La Solidarité des femmes »."
+  ],
+  "actions": [
+    {
+      "date": "1902",
+      "theme": "travail",
+      "text": "Se voit refuser l'inscription au concours de l'internat des asiles."
+    },
+    {
+      "date": "1903",
+      "theme": "travail",
+      "text": "Est admise et nommée interne des asiles, avec Constance Pascal."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Les femmes internes, c'est non (Le Quotidien du médecin)",
+      "url": "https://www.lequotidiendumedecin.fr/liberal-soins-de-ville/les-femmes-internes-cest-non"
+    },
+    {
+      "title": "Histoire des sciences médicales, 2001 (Université Paris Cité)",
+      "url": "https://numerabilis.u-paris.fr/ressources/pdf/sfhm/hsm/HSMx2001x035x001/HSMx2001x035x001x0085.pdf"
+    },
+    {
+      "title": "Pelletier, Madeleine (1874–1939) (Encyclopedia.com)",
+      "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/pelletier-madeleine-1874-1939"
+    }
+  ]
+}
