@@ -1,0 +1,48 @@
+{
+  "name": "Maria Deraismes",
+  "birth": "1828",
+  "death": "1894",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-01-18",
+  "summary": "Elle a fondé des associations et organisé les premiers grands congrès pour le droit des femmes à Paris.",
+  "chronicle": [
+    "En 1869, Maria Deraismes aide Léon Richer à fonder un hebdomadaire, « Le Droit des femmes ». En 1870, elle cofonde avec lui l'Association pour le droit des femmes. En 1874, l'association prend le nom de Société pour l'amélioration du sort de la femme.",
+    "Du 29 juillet au 9 août 1878, elle coorganise à Paris le Congrès international du droit des femmes. Il se tient au Grand-Orient. En juin 1889, elle patronne un autre congrès : le Congrès français et international du droit des femmes.",
+    "Elle entre aussi dans un monde fermé aux femmes : la franc-maçonnerie. Le 14 janvier 1882, elle est initiée dans la loge du Pecq. Elle devient l'une des premières femmes franc-maçonnes.",
+    "En 1893, elle fonde avec Georges Martin la Grande Loge symbolique écossaise mixte « Le Droit humain ». Elle est ouverte aux deux sexes. Maria Deraismes meurt l'année suivante, en 1894."
+  ],
+  "actions": [
+    {
+      "date": "1869",
+      "theme": "ecrire",
+      "text": "Aide Léon Richer à fonder l'hebdomadaire « Le Droit des femmes »."
+    },
+    {
+      "date": "1870",
+      "theme": "organiser",
+      "text": "Cofonde l'Association pour le droit des femmes."
+    },
+    {
+      "date": "1878-07-29",
+      "theme": "organiser",
+      "text": "Ouvre à Paris le Congrès international du droit des femmes, qu'elle coorganise jusqu'au 9 août."
+    },
+    {
+      "date": "1889-06-25",
+      "theme": "organiser",
+      "text": "Patronne le Congrès français et international du droit des femmes, jusqu'au 29 juin."
+    },
+    {
+      "date": "1893",
+      "theme": "organiser",
+      "text": "Fonde avec Georges Martin « Le Droit humain », une loge maçonnique ouverte aux deux sexes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Deraismes, Maria (1828–1894) (Encyclopedia.com)",
+      "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/deraismes-maria-1828-1894"
+    }
+  ]
+}
