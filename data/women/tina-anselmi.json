@@ -1,0 +1,40 @@
+{
+  "name": "Tina Anselmi",
+  "birth": "1927",
+  "death": "2016",
+  "country": "Italie",
+  "region": "europe",
+  "published": "2026-01-22",
+  "summary": "La première femme ministre en Italie, qui a fait voter l'égalité entre hommes et femmes au travail.",
+  "chronicle": [
+    "Tina Anselmi est la première femme ministre de l'histoire de l'Italie. Elle est chargée du Travail et de la Prévoyance sociale.",
+    "Le 9 décembre 1977, l'Italie adopte la loi n° 903 sur l'égalité de traitement entre hommes et femmes au travail. On l'appelle la « loi Anselmi ». Elle paraît au Journal officiel le 17 décembre.",
+    "Pour la première fois, la loi interdit de traiter une femme différemment dès l'embauche. Elle protège aussi les femmes dans leurs qualifications et dans leur carrière."
+  ],
+  "actions": [
+    {
+      "date": "1977-12-09",
+      "theme": "travail",
+      "text": "Adoption de la loi n° 903, dite « loi Anselmi », sur l'égalité de traitement entre hommes et femmes au travail."
+    },
+    {
+      "date": "1977-12-17",
+      "theme": "travail",
+      "text": "La loi paraît au Journal officiel : les discriminations sexuelles sont interdites dès l'accès à l'emploi."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Legge 9 dicembre 1977 n. 903 (Ministero del Lavoro)",
+      "url": "https://www.lavoro.gov.it/sites/default/files/archivio-doc-pregressi/ConsiglieraNazionale/Banche%20Dati/Legge9dicembre1977n903.pdf"
+    },
+    {
+      "title": "Legge 9 dicembre 1977 n. 903 (Certifico)",
+      "url": "https://certifico.com/news/274-news/18805-legge-9-dicembre-1977-n-903"
+    },
+    {
+      "title": "Article de la revue Diacronie, 2018 (DOAJ)",
+      "url": "https://doaj.org/article/bf2960e686f34a50bbf51bc7c97f88e2"
+    }
+  ]
+}
