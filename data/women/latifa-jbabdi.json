@@ -1,0 +1,51 @@
+{
+  "name": "Latifa Jbabdi",
+  "birth": "vers 1955",
+  "death": "",
+  "country": "Maroc",
+  "region": "afrique",
+  "published": "2026-01-25",
+  "summary": "Elle a lancé avec l'Union de l'action féminine la grande pétition pour un droit de la famille plus égalitaire au Maroc.",
+  "chronicle": [
+    "Au Maroc, la Moudawana fixe les règles du mariage et de la famille. Elle donne peu de droits aux femmes. Latifa Jbabdi a cofondé l'Union de l'action féminine pour changer cela.",
+    "En mars 1992, l'association lance une pétition : « Un million de signatures ». Elle demande une Moudawana égalitaire. L'année suivante, en 1993, une première réforme arrive. Elle reste limitée. Mais selon les sources, elle a surtout « désacralisé » le texte : on peut désormais le discuter.",
+    "En février 2004, le Parlement adopte à l'unanimité un nouveau Code de la famille. L'âge du mariage passe à 18 ans. La répudiation est placée sous le contrôle d'un juge. Ce code n'est pas l'œuvre d'une seule personne : c'est l'aboutissement d'une longue lutte, à laquelle elle a pris part.",
+    "Elle reste vigilante. En 2025, elle critique les « demi-solutions » de la nouvelle réforme."
+  ],
+  "actions": [
+    {
+      "date": "1992-03",
+      "theme": "droits-civils",
+      "text": "L'Union de l'action féminine, qu'elle a cofondée, lance la pétition « Un million de signatures » pour une Moudawana égalitaire."
+    },
+    {
+      "date": "1993",
+      "theme": "droits-civils",
+      "text": "Première réforme, limitée, de la Moudawana."
+    },
+    {
+      "date": "2004-02",
+      "theme": "droits-civils",
+      "text": "Le Parlement adopte le nouveau Code de la famille : mariage à 18 ans, répudiation sous contrôle du juge. C'est l'aboutissement d'une lutte à laquelle elle a pris part."
+    },
+    {
+      "date": "2025",
+      "theme": "ecrire",
+      "text": "Elle critique publiquement les « demi-solutions » de la nouvelle réforme de la Moudawana."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Récit : voici pourquoi il faut une nouvelle réforme de la Moudawana (Médias24)",
+      "url": "https://medias24.com/2019/03/08/recit-voici-pourquoi-il-faut-une-nouvelle-reforme-de-la-moudawana/"
+    },
+    {
+      "title": "Cours HEMED sur les femmes en Méditerranée (Université du Mans)",
+      "url": "https://hemed.univ-lemans.fr/cours2015/en/co/grain_03_5.html"
+    },
+    {
+      "title": "Latifa Jbabdi : la réforme de la Moudawana aurait pu être au rendez-vous de l'histoire (TelQuel)",
+      "url": "https://telquel.ma/2025/01/16/latifa-jbabdi-la-reforme-de-la-moudawana-aurait-pu-etre-au-rendez-vous-de-lhistoire_1913395"
+    }
+  ]
+}
