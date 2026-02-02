@@ -1,0 +1,45 @@
+{
+  "name": "Antoinette Fouque",
+  "birth": "1936",
+  "death": "2014",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-02-02",
+  "summary": "Elle a cofondé le Mouvement de libération des femmes et créé les éditions Des femmes.",
+  "chronicle": [
+    "En octobre 1968, Antoinette Fouque cofonde le Mouvement de libération des femmes (MLF) et le groupe « Psychanalyse et politique ». Le Larousse date plutôt le MLF de 1970, l'année de sa première action publique.",
+    "En 1973, elle fonde les éditions Des femmes. C'est la première maison d'édition de femmes en Europe. Certaines sources disent fin 1972. En 1974 viennent les librairies Des femmes.",
+    "Antoinette Fouque reste une figure controversée au sein du féminisme. Le journal Politis l'a rappelé à sa mort."
+  ],
+  "actions": [
+    {
+      "date": "1968-10",
+      "theme": "organiser",
+      "text": "Cofonde le Mouvement de libération des femmes et le groupe « Psychanalyse et politique »."
+    },
+    {
+      "date": "1973",
+      "theme": "ecrire",
+      "text": "Fonde les éditions Des femmes, première maison d'édition de femmes en Europe."
+    },
+    {
+      "date": "1974",
+      "theme": "ecrire",
+      "text": "Ouvre les librairies Des femmes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dossier de presse des 50 ans (Éditions Des femmes)",
+      "url": "https://www.desfemmes.fr/wp-content/uploads/2024/01/dossier-de-presse-50-ans-des-editions-des-femmes.pdf"
+    },
+    {
+      "title": "MLF (Larousse)",
+      "url": "https://www.larousse.fr/encyclopedie/divers/MLF/119248"
+    },
+    {
+      "title": "L'étrange éloge d'Antoinette Fouque (Politis)",
+      "url": "https://www.politis.fr/articles/2014/02/disparition-letrange-eloge-dantoinette-fouque-25866"
+    }
+  ]
+}
