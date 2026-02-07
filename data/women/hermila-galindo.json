@@ -1,0 +1,46 @@
+{
+  "name": "Hermila Galindo",
+  "birth": "1886",
+  "death": "1954",
+  "country": "Mexique",
+  "region": "ameriques",
+  "published": "2026-02-07",
+  "summary": "Elle a réclamé le vote des femmes devant les auteurs de la Constitution mexicaine et s'est présentée à une élection sans en avoir le droit.",
+  "chronicle": [
+    "Fin 1916, à Querétaro, des hommes écrivent la nouvelle Constitution du Mexique. Hermila Galindo leur demande d'accorder le vote aux femmes, même de façon restreinte. Les sources hésitent entre décembre 1916 et janvier 1917. La réponse, elle, est claire : c'est non.",
+    "Elle ne s'arrête pas là. En 1917, elle défie la loi électorale. Elle se présente comme candidate à la députation, dans le Ve district de Mexico. Elle n'est pas élue. Mais elle a ouvert une porte.",
+    "En 1918, elle revient à la charge. Avec six autres militantes, elle présente un nouveau mémoire pour le vote des femmes.",
+    "Il faudra attendre 1953 pour que les Mexicaines votent aux élections fédérales."
+  ],
+  "actions": [
+    {
+      "date": "1916",
+      "theme": "vote",
+      "text": "En décembre 1916 ou en janvier 1917, elle demande au Congrès constituant de Querétaro le vote des femmes ; la demande est rejetée."
+    },
+    {
+      "date": "1917",
+      "theme": "vote",
+      "text": "Elle se présente à la députation fédérale dans le Ve district de Mexico, en défiant la loi électorale."
+    },
+    {
+      "date": "1918",
+      "theme": "ecrire",
+      "text": "Avec six autres militantes, elle présente un nouveau mémoire pour le vote des femmes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Voto secreto, voto femenino (INEHRM, Mexique)",
+      "url": "https://constitucion1917.gob.mx/work/models/inehrm/Resource/4939/Voto_secreto_voto_femenino.pdf"
+    },
+    {
+      "title": "Quién es Hermila Galindo (Secretaría de Relaciones Exteriores, Mexique)",
+      "url": "https://portales.sre.gob.mx/ppt-celac/es/biblioteca-digital-celac-hermila-galindo/2-uncategorised/35-quien-es-hermila-galindo-3"
+    },
+    {
+      "title": "Hermila Galindo (Chambre des députés du Mexique)",
+      "url": "https://portalhcd.diputados.gob.mx/PortalWeb/PortalCiudadano/433ce6a7-f5f4-4ce9-8577-76b5df32a913.pdf"
+    }
+  ]
+}
