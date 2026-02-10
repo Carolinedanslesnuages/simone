@@ -1,0 +1,41 @@
+{
+  "name": "Olympe de Gouges",
+  "birth": "1748",
+  "death": "1793",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-02-10",
+  "summary": "Elle a écrit la Déclaration des droits de la femme et de la citoyenne, qui pose l'égalité des femmes et des hommes devant la loi.",
+  "chronicle": [
+    "En septembre 1791, Olympe de Gouges publie la « Déclaration des droits de la femme et de la citoyenne ». Le texte compte 17 articles. Il suit le modèle de la Déclaration de 1789.",
+    "Elle le dédie à la reine Marie-Antoinette. Pour la Bibliothèque nationale de France, c'est le premier texte qui pose l'égalité juridique des femmes et des hommes. Mais il est rejeté.",
+    "Le jour exact fait débat : les sources hésitent entre le 5 et le 14 septembre 1791. Un document pédagogique situe sa présentation à l'Assemblée le 28 octobre 1791.",
+    "Olympe de Gouges meurt guillotinée en 1793. Son texte, lui, est resté."
+  ],
+  "actions": [
+    {
+      "date": "1791-09",
+      "theme": "ecrire",
+      "text": "Publie la « Déclaration des droits de la femme et de la citoyenne », en 17 articles, dédiée à Marie-Antoinette."
+    },
+    {
+      "date": "1791",
+      "theme": "droits-civils",
+      "text": "Son texte pose l'égalité juridique des femmes et des hommes. Il est rejeté."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Déclaration des droits de la femme et de la citoyenne, notice (Bibliothèque nationale de France)",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb46565868f"
+    },
+    {
+      "title": "Déclaration des droits de la femme et de la citoyenne, fiche de lecture (Universalis)",
+      "url": "https://www.universalis.fr/encyclopedie/declaration-des-droits-de-la-femme-et-de-la-citoyenne/"
+    },
+    {
+      "title": "Declaration of the Rights of Woman, septembre 1791 (Liberty, Equality, Fraternity, George Mason University)",
+      "url": "https://www.revolution.chnm.org/d/293"
+    }
+  ]
+}
