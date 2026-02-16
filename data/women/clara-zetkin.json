@@ -1,0 +1,40 @@
+{
+  "name": "Clara Zetkin",
+  "birth": "1857",
+  "death": "1933",
+  "country": "Allemagne",
+  "region": "europe",
+  "published": "2026-02-16",
+  "summary": "Elle a porté l'idée d'une Journée internationale des femmes, en 1910.",
+  "chronicle": [
+    "Fin août 1910, à Copenhague, Clara Zetkin préside la deuxième Conférence internationale des femmes socialistes. La conférence adopte une idée nouvelle : une Journée internationale des femmes, chaque année, pour réclamer le droit de vote.",
+    "Le texte original, en allemand, est signé « Clara Zetkin, Käthe Duncker und Genossinnen », c'est-à-dire « et camarades ». D'autres sources attribuent l'idée à Luise Zietz, que Clara Zetkin aurait soutenue.",
+    "En 1910, aucune date n'est encore fixée. Selon une source, c'est en 1921, lors d'une conférence à Moscou qu'elle préside, que la journée est fixée au 8 mars."
+  ],
+  "actions": [
+    {
+      "date": "1910-08",
+      "theme": "organiser",
+      "text": "À Copenhague, la conférence qu'elle préside adopte l'idée d'une Journée internationale des femmes."
+    },
+    {
+      "date": "1921",
+      "theme": "organiser",
+      "text": "Selon une source, une conférence à Moscou qu'elle préside fixe la journée au 8 mars."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Texte original sur la Journée des femmes, 1910 (Marxists Internet Archive)",
+      "url": "https://www.marxists.org/deutsch/archiv/zetkin/1910/08/frauentag.html"
+    },
+    {
+      "title": "Document de 1910 (Alexander Street Documents)",
+      "url": "https://documents.alexanderstreet.com/node/1497"
+    },
+    {
+      "title": "Clara Zetkin and International Women's Day (Forward)",
+      "url": "https://forward.com/life/194061/clara-zetkin-and-international-womens-day/"
+    }
+  ]
+}
