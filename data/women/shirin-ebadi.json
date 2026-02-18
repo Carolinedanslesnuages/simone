@@ -1,0 +1,51 @@
+{
+  "name": "Shirin Ebadi",
+  "birth": "1947",
+  "death": "",
+  "country": "Iran",
+  "region": "moyen-orient",
+  "published": "2026-02-18",
+  "summary": "Juge écartée parce que femme, devenue avocate des femmes et des enfants, elle a reçu le prix Nobel de la paix.",
+  "chronicle": [
+    "Shirin Ebadi entre dans la magistrature iranienne en mars 1969, selon plusieurs sources. En 1975, elle préside une chambre du tribunal de Téhéran. Elle est souvent présentée comme la première femme juge d'Iran.",
+    "Puis vient la révolution de 1979. De nouveaux décrets interdisent aux femmes d'être juges. Elle est rétrogradée.",
+    "Elle change de robe : elle devient avocate. Dans les années 1990, elle défend des femmes et des enfants. Sa campagne fait modifier le droit de la famille sur la garde des enfants.",
+    "Le 10 octobre 2003, elle reçoit le prix Nobel de la paix « pour ses efforts en faveur de la démocratie et des droits humains, en particulier les droits des femmes et des enfants ». Elle est la première femme musulmane et le premier Iranien à l'obtenir. Le prix lui est remis le 10 décembre 2003."
+  ],
+  "actions": [
+    {
+      "date": "1969-03",
+      "theme": "travail",
+      "text": "Elle entre dans la magistrature, selon plusieurs sources."
+    },
+    {
+      "date": "1975",
+      "theme": "travail",
+      "text": "Elle préside une chambre du tribunal de Téhéran ; elle est présentée comme la première femme juge d'Iran."
+    },
+    {
+      "date": "1979",
+      "theme": "travail",
+      "text": "Après la révolution, les femmes ne peuvent plus être juges : elle est rétrogradée."
+    },
+    {
+      "date": "2003-10-10",
+      "theme": "droits-civils",
+      "text": "Le prix Nobel de la paix lui est attribué, notamment pour son combat pour les droits des femmes et des enfants."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Shirin Ebadi, Facts (nobelprize.org)",
+      "url": "https://nobelprize.org/prizes/peace/2003/ebadi/speedread"
+    },
+    {
+      "title": "Ebadi, Shirin (Encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/books/culture-magazines/ebadi-shirin"
+    },
+    {
+      "title": "Iranian wins Nobel Peace Prize (CBS News)",
+      "url": "https://www.cbsnews.com/news/iranian-wins-nobel-peace-prize-15-10-2003/"
+    }
+  ]
+}
