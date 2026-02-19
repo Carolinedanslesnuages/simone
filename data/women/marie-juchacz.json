@@ -1,0 +1,40 @@
+{
+  "name": "Marie Juchacz",
+  "birth": "1879",
+  "death": "1956",
+  "country": "Allemagne",
+  "region": "europe",
+  "published": "2026-02-19",
+  "summary": "La première femme à prendre la parole dans un parlement allemand, en 1919.",
+  "chronicle": [
+    "Le 19 janvier 1919, les Allemandes votent pour la première fois. Ce jour-là, 37 femmes entrent à l'Assemblée nationale de Weimar, sur 423 sièges. Certaines sources en comptent 36 au départ, et 41 à la fin de la législature.",
+    "Un mois plus tard, le 19 février 1919, Marie Juchacz monte à la tribune. Aucune femme n'avait encore parlé dans un parlement allemand. Sa première phrase dit en substance : « C'est la première fois qu'en Allemagne une femme peut parler au peuple, librement et à égalité, au parlement. »",
+    "La même année, en décembre 1919, elle fonde l'Arbeiterwohlfahrt, l'AWO, une organisation d'entraide. Elle la dirige jusqu'en 1933."
+  ],
+  "actions": [
+    {
+      "date": "1919-02-19",
+      "theme": "vote",
+      "text": "Premier discours d'une femme dans un parlement allemand, à l'Assemblée nationale de Weimar."
+    },
+    {
+      "date": "1919-12",
+      "theme": "organiser",
+      "text": "Fonde l'Arbeiterwohlfahrt (AWO), qu'elle dirige jusqu'en 1933."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kalenderblatt Marie Juchacz (Bundestag)",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2019/kw07-kalenderblatt-juchacz-591728"
+    },
+    {
+      "title": "Marie Juchacz, the first woman to speak in parliament (Bundesregierung)",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/marie-juchacz-the-first-woman-to-speak-in-parliament-1582438"
+    },
+    {
+      "title": "Erste Rede einer Frau vor einem deutschen Parlament (Bundesarchiv)",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/erste-rede-einer-frau-vor-einem-deutschen-parlament/"
+    }
+  ]
+}
