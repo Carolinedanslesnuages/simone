@@ -1,0 +1,56 @@
+{
+  "name": "Doria Shafik",
+  "birth": "1908",
+  "death": "1975",
+  "country": "Égypte",
+  "region": "moyen-orient",
+  "published": "2026-02-24",
+  "summary": "Elle a envahi le Parlement égyptien avec des centaines de femmes pour réclamer leurs droits politiques.",
+  "chronicle": [
+    "Le 1er novembre 1945 paraît le premier numéro de Bint al-Nil, « Fille du Nil ». C'est la revue de Doria Shafik. Trois ans plus tard, en 1948, elle fonde aussi une union qui porte le même nom.",
+    "Le 19 février 1951, elle frappe fort. Elle fait entrer environ 1 500 femmes au Parlement égyptien. Une autre source parle d'environ 1 000 femmes. Elles réclament leurs droits politiques. La manifestation dure quatre heures.",
+    "Le 12 mars 1954, elle commence une grève de la faim au syndicat de la presse. Aucune femme ne siège dans le comité qui écrit la nouvelle Constitution. Elle s'arrête quand le président Naguib promet par écrit une constitution qui respecte les droits des femmes. Les sources ne disent pas la même durée : une semaine, huit jours ou dix jours.",
+    "En 1956, les Égyptiennes obtiennent le droit de vote. Selon la Cairo Review, il est réservé à celles qui savent lire et écrire."
+  ],
+  "actions": [
+    {
+      "date": "1945-11-01",
+      "theme": "ecrire",
+      "text": "Premier numéro de sa revue Bint al-Nil (« Fille du Nil »)."
+    },
+    {
+      "date": "1948",
+      "theme": "organiser",
+      "text": "Elle fonde l'union Bint al-Nil."
+    },
+    {
+      "date": "1951-02-19",
+      "theme": "vote",
+      "text": "Elle fait entrer environ 1 500 femmes au Parlement pour réclamer leurs droits politiques. La manifestation dure quatre heures."
+    },
+    {
+      "date": "1954-03-12",
+      "theme": "vote",
+      "text": "Elle entame une grève de la faim au syndicat de la presse, car aucune femme ne participe à la rédaction de la Constitution."
+    },
+    {
+      "date": "1956",
+      "theme": "vote",
+      "text": "Les Égyptiennes obtiennent le droit de vote, sous condition de savoir lire et écrire selon la Cairo Review."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Daughter of the Nile (The Cairo Review)",
+      "url": "https://www.thecairoreview.com/midan/daughter-of-the-nile/"
+    },
+    {
+      "title": "Shafik, Doria (1908–1975) (Encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/shafik-doria-1908-1975"
+    },
+    {
+      "title": "Women's rights in Egypt (International IDEA)",
+      "url": "https://idea.int/news/womens-rights-egypt"
+    }
+  ]
+}
