@@ -1,0 +1,56 @@
+{
+  "name": "Aoua Kéita",
+  "birth": "1912",
+  "death": "1979 ou 1980",
+  "country": "Mali",
+  "region": "afrique",
+  "published": "2026-03-11",
+  "summary": "Sage-femme et militante, elle a organisé les femmes de Bamako et été la première femme élue députée au Mali.",
+  "chronicle": [
+    "En 1931, Aoua Kéita sort diplômée de l'École de sages-femmes de Dakar. Elle commence aussitôt à exercer. Elle voit de près la vie des femmes.",
+    "En 1946, les femmes peuvent voter pour la première fois. Aoua Kéita fait campagne. En 1957, avec Aïssata Sow, elle cofonde l'Union des femmes salariées de Bamako. En 1958, elle organise le Bureau des femmes de Bamako et participe à la rédaction de la Constitution de la Fédération du Mali.",
+    "En 1959, elle est élue députée de Sikasso. C'est la première femme élue à l'Assemblée nationale. Selon certaines sources, c'est même la première élue au parlement d'un pays africain colonisé.",
+    "En 1975, elle publie son autobiographie, « Femme d'Afrique », chez Présence Africaine. Elle meurt en 1979 ou en 1980 : les sources ne sont pas d'accord."
+  ],
+  "actions": [
+    {
+      "date": "1946",
+      "theme": "vote",
+      "text": "Elle fait campagne lors des premières élections où les femmes peuvent voter."
+    },
+    {
+      "date": "1957",
+      "theme": "travail",
+      "text": "Avec Aïssata Sow, elle cofonde l'Union des femmes salariées de Bamako."
+    },
+    {
+      "date": "1958",
+      "theme": "organiser",
+      "text": "Elle organise le Bureau des femmes de Bamako et participe à la rédaction de la Constitution de la Fédération du Mali."
+    },
+    {
+      "date": "1959",
+      "theme": "vote",
+      "text": "Elle est élue députée de Sikasso, première femme élue à l'Assemblée nationale."
+    },
+    {
+      "date": "1975",
+      "theme": "ecrire",
+      "text": "Elle publie son autobiographie, « Femme d'Afrique », chez Présence Africaine."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Keita, Aoua (1912–1979) (Encyclopedia.com)",
+      "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/keita-aoua-1912-1979"
+    },
+    {
+      "title": "Aoua Kéita (Ville de Paris)",
+      "url": "https://www.paris.fr/pages/aoua-keita-31692"
+    },
+    {
+      "title": "Aoua Kéita (AFLIT, Université d'Australie-Occidentale)",
+      "url": "https://aflit.arts.uwa.edu.au/KeitaAoua.html"
+    }
+  ]
+}
