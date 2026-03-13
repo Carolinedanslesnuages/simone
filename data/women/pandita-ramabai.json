@@ -1,0 +1,41 @@
+{
+  "name": "Pandita Ramabai",
+  "birth": "1858",
+  "death": "1922",
+  "country": "Inde",
+  "region": "asie",
+  "published": "2026-03-13",
+  "summary": "Elle a fondé la Sharada Sadan, une école pour les veuves enfants.",
+  "chronicle": [
+    "Pandita Ramabai naît en 1858 en Inde. Elle s'intéresse au sort des veuves enfants, ces très jeunes filles déjà mariées et déjà veuves.",
+    "Elle part aux États-Unis et y collecte de l'argent. Le 1er février 1889, elle rentre en Inde. Avec cet argent, elle fonde à Bombay, dans le quartier de Chowpatty, la Sharada Sadan. Le nom veut dire « maison du savoir ».",
+    "Les sources ne donnent pas tout à fait la même date d'ouverture : moins d'un mois après son retour, ou le 11 mars 1889. Au début, il y a deux élèves. Pandita Ramabai s'installe ensuite à Pune.",
+    "En 1895, la Sharada Sadan accueille 26 veuves enfants et 13 élèves qui ne sont pas veuves. Pandita Ramabai meurt en 1922."
+  ],
+  "actions": [
+    {
+      "date": "1889",
+      "theme": "education",
+      "text": "De retour des États-Unis, elle fonde à Bombay la Sharada Sadan, une école pour les veuves enfants, avec l'argent de ses collectes."
+    },
+    {
+      "date": "1895",
+      "theme": "education",
+      "text": "Son école compte 26 veuves enfants et 13 élèves non veuves."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ramabai, Pandita (1858–1922) (Encyclopedia.com)",
+      "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/ramabai-pandita-1858-1922"
+    },
+    {
+      "title": "Opening of the Sharada Sadan (Visions of America, Université Lehigh)",
+      "url": "https://scalar.lehigh.edu/visions-of-america/opening-of-the-sharada-sadan"
+    },
+    {
+      "title": "Women's History Month: Pandita Ramabai (Women's History Network)",
+      "url": "https://womenshistorynetwork.org/womens-history-month-pandita-ramabai/"
+    }
+  ]
+}
