@@ -1,0 +1,46 @@
+{
+  "name": "Nezihe Muhiddin",
+  "birth": "1889",
+  "death": "1958",
+  "country": "Turquie",
+  "region": "moyen-orient",
+  "published": "2026-03-14",
+  "summary": "Elle a lancé en Turquie le combat organisé pour le droit de vote des femmes.",
+  "chronicle": [
+    "Juin 1923, à Istanbul. La République turque n'est pas encore proclamée. Nezihe Muhiddin fonde déjà un parti : le Parti populaire des femmes. C'est le premier parti politique de la Turquie nouvelle. Mais il ne peut pas être enregistré. La raison est simple : les femmes n'ont pas le droit de vote.",
+    "Elle ne renonce pas. Le 7 février 1924, le parti devient l'Union des femmes turques. L'association continue le combat pour le suffrage.",
+    "En 1927, Nezihe Muhiddin est écartée de l'Union. Les femmes votent aux élections locales en 1930. Le 5 décembre 1934, elles obtiennent le droit de voter et d'être élues aux élections nationales.",
+    "Ce droit est accordé par le régime kémaliste, pas par elle. Mais il est l'aboutissement d'une lutte qu'elle a lancée."
+  ],
+  "actions": [
+    {
+      "date": "1923-06",
+      "theme": "organiser",
+      "text": "À Istanbul, elle fonde et préside le Parti populaire des femmes, qui ne peut pas être enregistré faute de droit de vote des femmes."
+    },
+    {
+      "date": "1924-02-07",
+      "theme": "organiser",
+      "text": "Le parti devient l'Union des femmes turques, qui mène le combat pour le suffrage."
+    },
+    {
+      "date": "1934-12-05",
+      "theme": "vote",
+      "text": "Les Turques obtiennent le droit de vote et d'éligibilité aux élections nationales : l'aboutissement d'une lutte qu'elle a lancée, même si elle avait été écartée de l'Union en 1927."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Women's People's Party (1923) (Encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/womens-peoples-party-1923"
+    },
+    {
+      "title": "Nezihe Muhiddin, a Turkish suffragette (Daily Sabah)",
+      "url": "https://www.dailysabah.com/portrait/2018/01/06/nezihe-muhiddin-a-turkish-suffragette/amp"
+    },
+    {
+      "title": "In Turkey, politics still wears a moustache (Orient XXI)",
+      "url": "https://orientxxi.info/in-turkey-politics-still-wears-a-moustache,2158"
+    }
+  ]
+}
