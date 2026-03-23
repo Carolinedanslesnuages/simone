@@ -1,0 +1,40 @@
+{
+  "name": "Elizabeth Cady Stanton",
+  "birth": "1815",
+  "death": "1902",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "published": "2026-03-23",
+  "summary": "Elle a écrit la Déclaration de Seneca Falls, le premier grand texte du mouvement des femmes aux États-Unis.",
+  "chronicle": [
+    "Juillet 1848, à Seneca Falls, dans l'État de New York. Une convention sur les droits des femmes se prépare. Elizabeth Cady Stanton y tient la plume.",
+    "Avec M'Clintock, sur une simple table à thé, elle rédige la « Declaration of Sentiments ». Le texte copie la forme de la Déclaration d'indépendance. Mais il parle des femmes et de tout ce qu'on leur refuse.",
+    "Les 19 et 20 juillet 1848, la convention se réunit. Stanton lit la Déclaration à voix haute. Elle est adoptée à l'unanimité. Seneca Falls devient le point de départ d'un long combat."
+  ],
+  "actions": [
+    {
+      "date": "1848-07",
+      "theme": "ecrire",
+      "text": "Avec M'Clintock, elle rédige la « Declaration of Sentiments », calquée sur la Déclaration d'indépendance."
+    },
+    {
+      "date": "1848-07-19",
+      "theme": "organiser",
+      "text": "Ouverture de la convention de Seneca Falls, où elle lit la Déclaration, adoptée à l'unanimité."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Declaration of Sentiments (National Park Service)",
+      "url": "https://www.nps.gov/articles/declaration-of-sentiments.htm"
+    },
+    {
+      "title": "Report of the Woman's Rights Convention (National Park Service)",
+      "url": "https://www.nps.gov/wori/learn/historyculture/report-of-the-womans-rights-convention.htm"
+    },
+    {
+      "title": "Women Fight for the Vote : Declaration of Sentiments (Library of Congress)",
+      "url": "https://www.loc.gov/exhibitions/women-fight-for-the-vote/about-this-exhibition/seneca-falls-and-building-a-movement-1776-1890/seneca-falls-and-the-start-of-annual-conventions/declaration-of-sentiments/"
+    }
+  ]
+}
