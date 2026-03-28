@@ -1,0 +1,51 @@
+{
+  "name": "Gisèle Halimi",
+  "birth": "1927",
+  "death": "2020",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-03-28",
+  "summary": "Avocate, elle a fait de ses procès des combats pour le droit à l'avortement et contre le viol.",
+  "chronicle": [
+    "En 1971, Gisèle Halimi fonde avec Simone de Beauvoir l'association Choisir. Elle défend les femmes qui ont signé le Manifeste des 343.",
+    "Le 8 novembre 1972 s'achève le procès de Bobigny. Gisèle Halimi y défend Marie-Claire Chevalier, poursuivie pour avoir avorté après un viol. Elle obtient sa relaxe. Le ministère de la Justice voit dans ce procès les prémices de la loi Veil.",
+    "En mai 1978, à Aix-en-Provence, elle défend Anne Tonglet et Araceli Castellano. Elle transforme ce procès en « procès du viol ». Il ouvre la voie à la loi du 23 décembre 1980, qui définit le viol dans le Code pénal.",
+    "La Bibliothèque nationale de France le résume ainsi : ses procès ont contribué à la loi Veil de 1975 et à la criminalisation du viol en 1980."
+  ],
+  "actions": [
+    {
+      "date": "1971",
+      "theme": "organiser",
+      "text": "Fonde l'association Choisir avec Simone de Beauvoir pour défendre les signataires du Manifeste des 343."
+    },
+    {
+      "date": "1972-11-08",
+      "theme": "corps",
+      "text": "Obtient la relaxe de Marie-Claire Chevalier à la fin du procès de Bobigny."
+    },
+    {
+      "date": "1978-05",
+      "theme": "violences",
+      "text": "Transforme le procès d'Aix-en-Provence en « procès du viol »."
+    },
+    {
+      "date": "1980-12-23",
+      "theme": "violences",
+      "text": "Une loi définit le viol dans le Code pénal. Le procès d'Aix lui a ouvert la voie."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Le procès de Bobigny (Ministère de la Justice)",
+      "url": "https://www.justice.gouv.fr/actualites/actualite/proces-bobigny"
+    },
+    {
+      "title": "Gisèle Halimi, le combat féministe (Universalis)",
+      "url": "https://www.universalis.fr/encyclopedie/gisele-halimi/2-le-combat-feministe/"
+    },
+    {
+      "title": "Hommage à Gisèle Halimi (Bibliothèque nationale de France)",
+      "url": "https://www.bnf.fr/fr/actualites/hommage-gisele-halimi"
+    }
+  ]
+}
