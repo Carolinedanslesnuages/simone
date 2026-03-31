@@ -1,0 +1,45 @@
+{
+  "name": "Paulina Luisi",
+  "birth": "1875",
+  "death": "1950",
+  "country": "Uruguay",
+  "region": "ameriques",
+  "published": "2026-03-31",
+  "summary": "Première femme médecin de l'Uruguay, elle a fondé le Conseil national des femmes et réclamé leurs droits politiques.",
+  "chronicle": [
+    "Paulina Luisi est la première femme médecin de l'Uruguay. En quelle année ? 1908 pour le Syndicat médical, 1909 pour un texte de la présidence. Les sources ne s'accordent pas.",
+    "En 1916, elle fonde le Conseil national des femmes de l'Uruguay, le CONAMU, avec Isabel Pinto de Vidal et Francisca Beretervide. C'est une branche du Conseil international des femmes.",
+    "En 1917, elle lance une revue, « Acción Femenina ». Elle écrit aussi « La mujer uruguaya reclama sus derechos políticos », « La femme uruguayenne réclame ses droits politiques ». On n'en connaît pas la date exacte."
+  ],
+  "actions": [
+    {
+      "date": "1908",
+      "theme": "education",
+      "text": "Elle devient la première femme médecin de l'Uruguay, en 1908 ou en 1909 selon les sources."
+    },
+    {
+      "date": "1916",
+      "theme": "organiser",
+      "text": "Elle fonde le Conseil national des femmes de l'Uruguay avec Isabel Pinto de Vidal et Francisca Beretervide."
+    },
+    {
+      "date": "1917",
+      "theme": "ecrire",
+      "text": "Elle lance la revue « Acción Femenina »."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Paulina Luisi (Académie nationale des lettres, ministère de l'Éducation et de la Culture d'Uruguay)",
+      "url": "https://www.gub.uy/ministerio-educacion-cultura/academia-nacional-letras/paulina-luisi"
+    },
+    {
+      "title": "Lauros de la mujer médica en Uruguay (Sindicato Médico del Uruguay)",
+      "url": "https://www.smu.org.uy/dpmc/hmed/historia/articulos/lauros_mujer_med_uy_1908_1953.pdf"
+    },
+    {
+      "title": "La mujer uruguaya reclama sus derechos políticos, Paulina Luisi (Internet Archive)",
+      "url": "https://archive.org/download/PaulinaLuisiLaMujerUruguayaReclamaSusDerechosPoliticos/Paulina%20Luisi%20-%20La%20mujer%20uruguaya%20reclama%20sus%20derechos%20politicos.pdf"
+    }
+  ]
+}
