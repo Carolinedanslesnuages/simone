@@ -1,0 +1,40 @@
+{
+  "name": "Aletta Jacobs",
+  "birth": "1854",
+  "death": "1929",
+  "country": "Pays-Bas",
+  "region": "europe",
+  "published": "2026-04-01",
+  "summary": "La première femme médecin des Pays-Bas, pionnière de la contraception.",
+  "chronicle": [
+    "En 1879, Aletta Jacobs devient la première femme diplômée de médecine aux Pays-Bas. Une source précise qu'elle réussit l'examen en 1878 et obtient son doctorat en 1879.",
+    "À Amsterdam, elle commence à prescrire un contraceptif : le pessaire de Mensinga, une sorte de diaphragme. On présente souvent ce lieu comme la première clinique de contraception au monde.",
+    "La plupart des sources datent ce début de 1882. Le Brooklyn Museum, lui, parle de 1880."
+  ],
+  "actions": [
+    {
+      "date": "1879",
+      "theme": "education",
+      "text": "Première femme diplômée de médecine aux Pays-Bas."
+    },
+    {
+      "date": "1882",
+      "theme": "corps",
+      "text": "À Amsterdam, commence à prescrire le diaphragme comme contraceptif, souvent présenté comme la première clinique de contraception au monde."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Een portret van Aletta Jacobs (Atria)",
+      "url": "https://atria.nl/en/kennis/portretten/een-portret-van-aletta-jacobs-een-van-nederlands-meest-prominente-feministen"
+    },
+    {
+      "title": "Aletta Jacobs (Institut international d'histoire sociale)",
+      "url": "https://iisg.nl/exhibitions/neomalthusianism/aletta-jacobs.php"
+    },
+    {
+      "title": "First birth control clinic opens in Amsterdam (EBSCO)",
+      "url": "https://www.ebsco.com/research-starters/history/first-birth-control-clinic-opens-amsterdam"
+    }
+  ]
+}
