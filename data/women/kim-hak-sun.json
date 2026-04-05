@@ -1,0 +1,46 @@
+{
+  "name": "Kim Hak-sun",
+  "birth": "1924",
+  "death": "1997",
+  "country": "Corée du Sud",
+  "region": "asie",
+  "published": "2026-04-05",
+  "summary": "Elle a été la première survivante à raconter publiquement, sous son nom, le sort des « femmes de réconfort ».",
+  "chronicle": [
+    "Kim Hak-sun naît en 1924 à Jilin, en Chine. Pendant la guerre, elle est l'une des femmes que l'armée japonaise appelle « femmes de réconfort ». Ces femmes sont violées par des soldats.",
+    "Pendant des décennies, les survivantes se taisent. Le 14 août 1991, Kim Hak-sun prend la parole. Au siège du Korean Council, elle raconte devant la presse ce qu'elle a subi. Elle donne son vrai nom. C'est la première à le faire.",
+    "Son courage libère la parole. D'autres survivantes, en Corée et ailleurs, se mettent à témoigner. En décembre 1991, avec d'autres victimes, elle porte plainte contre l'État japonais.",
+    "Elle meurt le 16 décembre 1997. Le 14 août, jour de son témoignage, est devenu une journée de mémoire en Corée, en 2017, et une journée internationale."
+  ],
+  "actions": [
+    {
+      "date": "1991-08-14",
+      "theme": "violences",
+      "text": "Au siège du Korean Council, elle témoigne publiquement, sous son nom, des viols subis comme « femme de réconfort » de l'armée japonaise."
+    },
+    {
+      "date": "1991-12",
+      "theme": "violences",
+      "text": "Avec d'autres victimes, elle porte plainte contre l'État japonais."
+    },
+    {
+      "date": "2017",
+      "theme": "violences",
+      "text": "Le 14 août, jour de son témoignage, devient une journée de mémoire nationale en Corée."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kim Hak-sun (Center for Korean Studies, UCLA)",
+      "url": "https://www.international.ucla.edu/cks/care/comfortwomen_speakup/267562"
+    },
+    {
+      "title": "Article sur Kim Hak-sun (The Korea Herald)",
+      "url": "https://www.koreaherald.com/article/3637012"
+    },
+    {
+      "title": "Article sur la plainte des victimes (The Korea Times)",
+      "url": "https://www.koreatimes.co.kr/www/nation/2024/11/113_313732.html"
+    }
+  ]
+}
