@@ -1,0 +1,51 @@
+{
+  "name": "Vida Goldstein",
+  "birth": "1869",
+  "death": "1949",
+  "country": "Australie",
+  "region": "oceanie",
+  "published": "2026-04-15",
+  "summary": "Elle a été l'une des premières femmes de l'Empire britannique à se présenter à un parlement national.",
+  "chronicle": [
+    "Vida Goldstein naît le 13 avril 1869 en Australie. Pour défendre les droits des femmes, elle choisit d'abord le journal. De 1900 à 1905, elle publie et dirige Woman's Sphere, un mensuel féministe.",
+    "En 1902, elle traverse le monde. À Washington, elle représente l'Australie et la Nouvelle-Zélande à la Conférence internationale pour le suffrage des femmes.",
+    "En 1903, pour la première fois, les Australiennes peuvent se présenter aux élections. Elles sont quatre candidates. Vida Goldstein vise le Sénat, en indépendante. Elle obtient 51 497 voix, sans être élue. On la dit souvent la première femme de l'Empire britannique candidate à un parlement national.",
+    "En 1908, les femmes de l'État de Victoria obtiennent enfin le droit de vote. Elle lance aussitôt un nouveau journal, Woman Voter. Elle meurt le 15 août 1949."
+  ],
+  "actions": [
+    {
+      "date": "1900",
+      "theme": "ecrire",
+      "text": "Elle lance et dirige Woman's Sphere, un mensuel féministe, publié jusqu'en 1905."
+    },
+    {
+      "date": "1902",
+      "theme": "organiser",
+      "text": "À Washington, elle représente l'Australie et la Nouvelle-Zélande à la Conférence internationale pour le suffrage des femmes."
+    },
+    {
+      "date": "1903",
+      "theme": "vote",
+      "text": "Candidate indépendante au Sénat, elle obtient 51 497 voix, sans être élue."
+    },
+    {
+      "date": "1908",
+      "theme": "ecrire",
+      "text": "Après le vote des femmes dans l'État de Victoria, elle lance le journal Woman Voter."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Vida Goldstein (Australian Women's Register)",
+      "url": "https://www.womenaustralia.info/entries/goldstein-vida/"
+    },
+    {
+      "title": "Goldstein, Vida Jane (Australian Dictionary of Biography, Université nationale australienne)",
+      "url": "https://adb.anu.edu.au/biography/goldstein-vida-jane-6418"
+    },
+    {
+      "title": "Vida Goldstein (Museum of Australian Democracy)",
+      "url": "https://explore.moadoph.gov.au/people/vida-goldstein.html"
+    }
+  ]
+}
