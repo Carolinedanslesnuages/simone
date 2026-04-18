@@ -1,0 +1,46 @@
+{
+  "name": "Ruth Bader Ginsburg",
+  "birth": "1933",
+  "death": "2020",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "published": "2026-04-18",
+  "summary": "Avocate puis juge, elle a fait reconnaître par la Cour suprême que les discriminations fondées sur le sexe sont contraires à la Constitution.",
+  "chronicle": [
+    "Dans l'Idaho, une loi préfère les hommes aux femmes pour gérer une succession. L'affaire s'appelle Reed v. Reed. Elle monte jusqu'à la Cour suprême.",
+    "En 1971, Ruth Bader Ginsburg rédige le mémoire de l'ACLU, une association de défense des libertés. La Cour lui donne raison. Pour la première fois, elle déclare contraire à la Constitution une discrimination fondée sur le sexe. Elle s'appuie sur le 14e amendement.",
+    "Ginsburg dirige ensuite le Women's Rights Project de l'ACLU, créé fin 1971 ou en 1972 selon les pages. En une décennie, le projet porte plus de 300 affaires de discrimination.",
+    "En 1996, devenue juge à la Cour suprême, elle écrit l'opinion majoritaire de l'affaire United States v. Virginia. Elle concerne l'Institut militaire de Virginie."
+  ],
+  "actions": [
+    {
+      "date": "1971",
+      "theme": "droits-civils",
+      "text": "Elle rédige le mémoire de l'ACLU dans Reed v. Reed : la Cour suprême déclare inconstitutionnelle une discrimination fondée sur le sexe."
+    },
+    {
+      "date": "1972",
+      "theme": "organiser",
+      "text": "Fin 1971 ou en 1972, l'ACLU crée le Women's Rights Project, qu'elle dirige : plus de 300 affaires dans la décennie."
+    },
+    {
+      "date": "1996",
+      "theme": "education",
+      "text": "Elle rédige l'opinion majoritaire de United States v. Virginia, sur l'Institut militaire de Virginie."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Women Who Put Women's Rights on the ACLU Agenda (ACLU)",
+      "url": "https://www.aclu.org/documents/women-who-put-womens-rights-aclu-agenda"
+    },
+    {
+      "title": "Chronologie du Women's Rights Project (ACLU)",
+      "url": "https://assets.aclu.org/live/uploads/document/101917a-WRPTimeline.pdf"
+    },
+    {
+      "title": "United States v. Virginia (Columbia Journal of Gender and Law)",
+      "url": "https://journals.library.columbia.edu/index.php/cjgl/article/download/2672/7067/38149"
+    }
+  ]
+}
