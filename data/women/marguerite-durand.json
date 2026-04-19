@@ -1,0 +1,52 @@
+{
+  "name": "Marguerite Durand",
+  "birth": "1864",
+  "death": "1936",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-04-19",
+  "summary": "Elle a lancé « La Fronde », un journal entièrement fait par des femmes, et donné ses archives féministes à la Ville de Paris.",
+  "chronicle": [
+    "En 1897, Marguerite Durand lance « La Fronde ». C'est un quotidien « dirigé, administré, rédigé, composé par des femmes ». Elles sont payées comme les hommes. Le journal paraît chaque jour jusqu'en 1903.",
+    "En 1903, elle appuie Madeleine Pelletier, qui veut passer le concours de l'internat des asiles.",
+    "En 1910, sa candidature aux législatives est rejetée. Elle appelle alors les femmes à boycotter le recensement : « Si nous ne comptons pas, pourquoi nous compte-t-on ? » En 1914, avec « Le Journal », elle mène une campagne de vote blanc. Selon la Ville de Paris, elle rassemble 500 000 votes de femmes favorables au suffrage.",
+    "En 1932, elle donne ses archives à la Ville de Paris et crée le premier Office de documentation féministe. Il deviendra la bibliothèque Marguerite-Durand. Certaines sources disent 1931."
+  ],
+  "actions": [
+    {
+      "date": "1897",
+      "theme": "ecrire",
+      "text": "Lance « La Fronde », un quotidien fait entièrement par des femmes, payées comme les hommes."
+    },
+    {
+      "date": "1903",
+      "theme": "travail",
+      "text": "Appuie Madeleine Pelletier pour le concours de l'internat des asiles."
+    },
+    {
+      "date": "1910",
+      "theme": "vote",
+      "text": "Sa candidature aux législatives est rejetée. Elle appelle les femmes à boycotter le recensement."
+    },
+    {
+      "date": "1914",
+      "theme": "vote",
+      "text": "Mène avec « Le Journal » une campagne de vote blanc : 500 000 votes de femmes pour le suffrage."
+    },
+    {
+      "date": "1932",
+      "theme": "organiser",
+      "text": "Donne ses archives à la Ville de Paris et crée le premier Office de documentation féministe."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Marguerite Durand, une féministe frondeuse avant l'heure (Ville de Paris)",
+      "url": "https://www.paris.fr/pages/marguerite-durand-une-feministe-frondeuse-avant-l-heure-19108"
+    },
+    {
+      "title": "Les femmes internes, c'est non (Le Quotidien du médecin)",
+      "url": "https://www.lequotidiendumedecin.fr/liberal-soins-de-ville/les-femmes-internes-cest-non"
+    }
+  ]
+}
