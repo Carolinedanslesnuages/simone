@@ -1,0 +1,41 @@
+{
+  "name": "Raden Adjeng Kartini",
+  "birth": "1879",
+  "death": "1904",
+  "country": "Indonésie",
+  "region": "asie",
+  "published": "2026-04-22",
+  "summary": "Elle a ouvert une école aux filles javanaises, et ses lettres ont financé d'autres écoles de filles.",
+  "chronicle": [
+    "Kartini naît le 21 avril 1879 à Mayong, près de Jepara, sur l'île de Java. L'Indonésie s'appelle alors les Indes néerlandaises.",
+    "Elle ouvre une école primaire. C'est la première à accueillir des filles javanaises. On ne connaît pas la date exacte de son ouverture.",
+    "Le 8 novembre 1903, elle épouse le régent de Rembang. Son contrat de mariage contient une promesse rare : elle pourra continuer ses études et fonder une école de filles. Elle meurt le 17 septembre 1904, à 25 ans.",
+    "Après sa mort, J.H. Abendanon publie ses lettres sous le titre Door duisternis tot licht. C'est en 1911 ou en 1912, selon les sources. L'argent du livre sert à fonder des écoles de filles : les « écoles Kartini »."
+  ],
+  "actions": [
+    {
+      "date": "1903-11-08",
+      "theme": "droits-civils",
+      "text": "Elle se marie. Son contrat de mariage lui garantit le droit de poursuivre ses études et de fonder une école de filles."
+    },
+    {
+      "date": "1911",
+      "theme": "ecrire",
+      "text": "Ses lettres sont publiées sous le titre Door duisternis tot licht (1912 selon une autre source). Les recettes financent les « écoles Kartini »."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Raden Adjeng Kartini (Encyclopædia Britannica)",
+      "url": "https://britannica.com/biography/Raden-Adjeng-Kartini"
+    },
+    {
+      "title": "Kartini, advocate of women's rights : letters (Université de Leiden)",
+      "url": "https://webpresentations.universiteitleiden.nl/s/kartini-advocate-of-women-s-rights/page/letters"
+    },
+    {
+      "title": "Raden Ajeng Kartini (1879-1904), a pioneer for women's rights (Leiden Special Collections Blog)",
+      "url": "https://leidenspecialcollectionsblog.nl/articles/raden-ajeng-kartini-1879-1904-a-pioneer-for-womens-rights-in-the-dutch-east-indies-indonesia"
+    }
+  ]
+}
