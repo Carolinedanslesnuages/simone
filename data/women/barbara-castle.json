@@ -1,0 +1,45 @@
+{
+  "name": "Barbara Castle",
+  "birth": "1910",
+  "death": "2002",
+  "country": "Royaume-Uni",
+  "region": "europe",
+  "published": "2026-05-03",
+  "summary": "La ministre qui a fait voter l'Equal Pay Act de 1970 sur l'égalité des salaires.",
+  "chronicle": [
+    "En 1968, à l'usine Ford de Dagenham, les mécaniciennes font grève. Barbara Castle est alors ministre de l'Emploi. Elle intervient. Les ouvrières reprennent le travail avec un salaire porté à 92 % de celui des hommes.",
+    "Elle va plus loin. Le 9 février 1970, elle défend aux Communes un projet de loi sur l'égalité des salaires. « We intend to make equal pay for equal work a reality », dit-elle : nous voulons faire de l'égalité de salaire pour un même travail une réalité.",
+    "L'Equal Pay Act reçoit la sanction royale le 29 mai 1970. Il entre en vigueur en 1975. La loi a une limite : elle exige le même salaire pour le même travail, mais pas pour un travail de valeur égale."
+  ],
+  "actions": [
+    {
+      "date": "1968",
+      "theme": "travail",
+      "text": "Ministre de l'Emploi, elle intervient dans la grève des mécaniciennes de Ford à Dagenham, qui obtiennent 92 % du salaire des hommes."
+    },
+    {
+      "date": "1970-02-09",
+      "theme": "travail",
+      "text": "Défend en deuxième lecture aux Communes le projet de loi sur l'égalité des salaires."
+    },
+    {
+      "date": "1970-05-29",
+      "theme": "travail",
+      "text": "Sanction royale de l'Equal Pay Act, entré en vigueur en 1975."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Barbara Castle (UK Parliament)",
+      "url": "https://webtest.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/collections/equal-pay/barbara-castle"
+    },
+    {
+      "title": "Fifty years since the 1970 Equal Pay Act (The National Archives)",
+      "url": "https://blog.nationalarchives.gov.uk/fifty-years-since-the-1970-equal-pay-act/"
+    },
+    {
+      "title": "Barbara Castle, Gender Equalities at 50 (Université d'Édimbourg)",
+      "url": "https://www.genderequalitiesat50.ed.ac.uk/timeline/barbara-castle/"
+    }
+  ]
+}
