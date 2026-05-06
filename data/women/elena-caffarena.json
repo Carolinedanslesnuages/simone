@@ -1,0 +1,46 @@
+{
+  "name": "Elena Caffarena",
+  "birth": "1903",
+  "death": "2003",
+  "country": "Chili",
+  "region": "ameriques",
+  "published": "2026-05-06",
+  "summary": "Elle a mené le grand mouvement des Chiliennes pour le droit de vote.",
+  "chronicle": [
+    "En 1935, Elena Caffarena cofonde le MEMCH, le Mouvement pour l'émancipation des femmes du Chili. Elle en est la secrétaire générale jusqu'en 1941. Le MEMCH devient le principal acteur de la lutte pour le vote.",
+    "Avec Flor Heredia, elle rédige un projet de loi. Il crée un registre électoral unique, sans distinction de sexe.",
+    "Le 8 janvier 1949, la loi du suffrage féminin universel est promulguée. Mais Elena Caffarena n'est pas invitée à la cérémonie. En cause, sa proximité avec le Parti communiste.",
+    "En 1952, les Chiliennes votent pour la première fois à une élection présidentielle."
+  ],
+  "actions": [
+    {
+      "date": "1935",
+      "theme": "organiser",
+      "text": "Elle cofonde le MEMCH, dont elle est secrétaire générale jusqu'en 1941."
+    },
+    {
+      "date": "1949-01-08",
+      "theme": "vote",
+      "text": "La loi du suffrage féminin universel est promulguée ; elle n'est pas invitée à la cérémonie."
+    },
+    {
+      "date": "1952",
+      "theme": "vote",
+      "text": "Les Chiliennes votent pour la première fois à une élection présidentielle."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Elena Caffarena (Memoria Chilena, Bibliothèque nationale du Chili)",
+      "url": "https://www.memoriachilena.gob.cl/602/w3-article-100606.html"
+    },
+    {
+      "title": "MEMCH (Memoria Chilena, Bibliothèque nationale du Chili)",
+      "url": "https://www.memoriachilena.gob.cl/602/w3-article-3611.html"
+    },
+    {
+      "title": "Leyes que cambiaron nuestra historia : voto femenino en Chile (Sénat du Chili)",
+      "url": "https://www.senado.cl/comunicaciones/noticias/leyes-que-cambiaron-nuestra-historia-voto-femenino-en-chile"
+    }
+  ]
+}
