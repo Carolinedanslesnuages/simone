@@ -1,0 +1,52 @@
+{
+  "name": "Ichikawa Fusae",
+  "birth": "1893",
+  "death": "1981",
+  "country": "Japon",
+  "region": "asie",
+  "published": "2026-05-10",
+  "summary": "Elle s'est battue pendant des décennies pour que les Japonaises puissent faire de la politique et voter.",
+  "chronicle": [
+    "Ichikawa Fusae naît le 15 mai 1893 au Japon. En 1920, avec Hiratsuka Raichō, elle cofonde l'Association des femmes nouvelles, pour le vote des femmes.",
+    "À cette époque, une loi interdit aux femmes d'organiser des réunions politiques, et même d'y assister. L'association lance une pétition. Le 25 février 1922, elle est approuvée : l'interdiction est levée. En 1924, Ichikawa fonde la Ligue pour le suffrage des femmes.",
+    "En 1945, une dizaine de jours après la capitulation du Japon, elle crée un comité de femmes qui réclame le vote. Elle déclare : « le suffrage n'est pas une chose à octroyer, mais à conquérir par les femmes elles-mêmes ». Les Japonaises obtiennent le vote la même année, sous la pression de l'occupation américaine.",
+    "En 1953, elle est élue à la Chambre des conseillers. Elle y fera cinq mandats. Elle meurt en 1981."
+  ],
+  "actions": [
+    {
+      "date": "1920",
+      "theme": "organiser",
+      "text": "Avec Hiratsuka Raichō, elle cofonde l'Association des femmes nouvelles (Shin Fujin Kyōkai)."
+    },
+    {
+      "date": "1922-02-25",
+      "theme": "droits-civils",
+      "text": "La pétition de l'association est approuvée : les femmes peuvent enfin organiser des réunions politiques et y assister."
+    },
+    {
+      "date": "1924",
+      "theme": "organiser",
+      "text": "Elle fonde la Ligue pour le suffrage des femmes (Fusen Kakutoku Dōmei)."
+    },
+    {
+      "date": "1945",
+      "theme": "vote",
+      "text": "Juste après la capitulation, elle crée un comité de femmes qui réclame le vote. Les Japonaises l'obtiennent la même année."
+    },
+    {
+      "date": "1953",
+      "theme": "vote",
+      "text": "Elle est élue à la Chambre des conseillers, pour le premier de ses cinq mandats."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ichikawa Fusae (1893–1981) (Encyclopedia.com)",
+      "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/ichikawa-fusae-1893-1981"
+    },
+    {
+      "title": "Hiratsuka Raicho (Bibliothèque nationale de la Diète, Portraits de personnalités japonaises)",
+      "url": "https://www.ndl.go.jp/portrait/e/datas/380.html"
+    }
+  ]
+}
