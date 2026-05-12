@@ -1,0 +1,41 @@
+{
+  "name": "Sor Juana Inés de la Cruz",
+  "birth": "1648 ou 1651",
+  "death": "vers 1695",
+  "country": "Mexique",
+  "region": "ameriques",
+  "published": "2026-05-12",
+  "summary": "Une religieuse de Nouvelle-Espagne qui a défendu par écrit le droit des femmes à étudier.",
+  "chronicle": [
+    "Elle vit au Mexique, qui s'appelle alors la Nouvelle-Espagne. Elle est religieuse. Et elle aime étudier, beaucoup, y compris les savoirs qui ne parlent pas de religion.",
+    "Un évêque lui écrit sous un faux nom, « Sor Filotea ». Il lui demande d'abandonner ces études profanes. Le 1er mars 1691, elle lui répond. C'est la « Respuesta a Sor Filotea de la Cruz ».",
+    "Dans ce texte, elle défend le droit des femmes à apprendre. Elle cite toute une lignée de femmes savantes. Elle discute aussi la vieille règle qui demande aux femmes de se taire. Ce n'est pas une loi nouvelle : c'est un texte fondateur.",
+    "Après la Respuesta, elle vend sa bibliothèque. Son texte n'est publié qu'après sa mort, vers 1700, à Madrid. Même son année de naissance reste discutée : 1648 ou 1651."
+  ],
+  "actions": [
+    {
+      "date": "1691-03-01",
+      "theme": "education",
+      "text": "Elle écrit la « Respuesta a Sor Filotea de la Cruz », une défense du droit des femmes à l'éducation."
+    },
+    {
+      "date": "1700",
+      "theme": "ecrire",
+      "text": "Vers 1700, environ dix ans après, la Respuesta est publiée à Madrid, après sa mort."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Respuesta a Sor Filotea, cours Spanish 3349 (Columbia University)",
+      "url": "https://www.columbia.edu/cu/spanish/courses/spanish3349/07crisisimperio/sorjuanarespuesta.html"
+    },
+    {
+      "title": "Respuesta a Sor Filotea (LibreTexts, Saint Mary's College)",
+      "url": "https://human.libretexts.org/Courses/Saint_Mary%27s_College_(Notre_Dame_IN)/Aprende_Espanol_con_Libretexts_(Learn_Spanish_with_Libretexts)/Conversacion_mujeres/01_Juana_Ines_de_la_Cruz/4_Respuesta_Sor_Filotea"
+    },
+    {
+      "title": "Reflexiones sorjuaninas sobre lo femenino y la mujer, Leticia Sales (Universidad Nacional de La Plata)",
+      "url": "https://congresos.fahce.unlp.edu.ar/jornadasfilo/xi-jornadas-2022/actas/ponencia-231027120352683165/@@display-file/file/Reflexiones%20sorjuaninas%20sobre%20lo%20femenino%20y%20la%20mujer%20en%20la%20Respuesta%20a%20Sor%20Filotea%20de%20la%20Cruz.%20Leticia%20Sales.pdf"
+    }
+  ]
+}
