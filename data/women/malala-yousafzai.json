@@ -1,0 +1,37 @@
+{
+  "name": "Malala Yousafzai",
+  "birth": "1997",
+  "death": "",
+  "country": "Pakistan",
+  "region": "asie",
+  "published": "2026-05-17",
+  "summary": "Elle se bat pour le droit de toutes les filles à aller à l'école, et elle a reçu le prix Nobel de la paix à 17 ans.",
+  "chronicle": [
+    "Malala Yousafzai naît le 12 juillet 1997 à Mingora, au Pakistan. Elle se bat pour une idée simple : toutes les filles doivent pouvoir aller à l'école.",
+    "Très jeune, elle écrit un blog pour la BBC, en 2009. En 2012, elle est victime d'un attentat. Elle survit.",
+    "Le 10 octobre 2014, on annonce qu'elle reçoit le prix Nobel de la paix. Elle le partage avec Kailash Satyarthi, « pour leur lutte contre l'oppression des enfants et des jeunes et pour le droit de tous les enfants à l'éducation ».",
+    "Elle a 17 ans. C'est la plus jeune lauréate de l'histoire du prix Nobel."
+  ],
+  "actions": [
+    {
+      "date": "2009",
+      "theme": "ecrire",
+      "text": "Elle tient un blog pour la BBC."
+    },
+    {
+      "date": "2014-10-10",
+      "theme": "education",
+      "text": "Elle reçoit le prix Nobel de la paix, avec Kailash Satyarthi, pour le droit de tous les enfants à l'éducation. À 17 ans, elle est la plus jeune lauréate."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Malala Yousafzai, Facts (Fondation Nobel)",
+      "url": "https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts"
+    },
+    {
+      "title": "Malala Yousafzai, Biographical (Fondation Nobel)",
+      "url": "https://nobelprize.org/prizes/peace/2014/yousafzai/biographical"
+    }
+  ]
+}
