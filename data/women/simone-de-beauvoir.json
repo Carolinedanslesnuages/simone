@@ -1,0 +1,45 @@
+{
+  "name": "Simone de Beauvoir",
+  "birth": "1908",
+  "death": "1986",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-05-21",
+  "summary": "Elle a écrit « Le Deuxième Sexe » et rédigé le Manifeste des 343.",
+  "chronicle": [
+    "En 1949, Simone de Beauvoir publie « Le Deuxième Sexe » chez Gallimard. Le livre sort en deux tomes : le premier en juin, le second en novembre.",
+    "Le 5 avril 1971, « Le Nouvel Observateur » publie un texte qu'elle a rédigé : le « Manifeste des 343 ». Dans ce texte, 343 femmes déclarent avoir avorté.",
+    "La même année, elle fonde avec l'avocate Gisèle Halimi l'association Choisir. L'association défend les femmes qui ont signé le manifeste."
+  ],
+  "actions": [
+    {
+      "date": "1949-06",
+      "theme": "ecrire",
+      "text": "Publie le premier tome du « Deuxième Sexe » chez Gallimard. Le second suit en novembre."
+    },
+    {
+      "date": "1971-04-05",
+      "theme": "corps",
+      "text": "Le « Manifeste des 343 », qu'elle a rédigé, paraît dans « Le Nouvel Observateur »."
+    },
+    {
+      "date": "1971",
+      "theme": "organiser",
+      "text": "Fonde avec Gisèle Halimi l'association Choisir, pour défendre les signataires du manifeste."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Beauvoir's The Second Sex Anticipates Women's Movement (EBSCO Research Starters)",
+      "url": "https://www.ebsco.com/research-starters/literature-and-writing/beauvoirs-second-sex-anticipates-womens-movement"
+    },
+    {
+      "title": "Manifesto of the 343 (TIME)",
+      "url": "https://time.com/5459995/manifesto-343-abortion-france"
+    },
+    {
+      "title": "The Bobigny trial and the manifesto of the 343 (Tribune)",
+      "url": "https://tribunemag.co.uk/2022/06/abortion-bobigny-trial-france-manifesto-343-womens-rights"
+    }
+  ]
+}
