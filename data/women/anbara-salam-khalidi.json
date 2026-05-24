@@ -1,0 +1,40 @@
+{
+  "name": "Anbara Salam Khalidi",
+  "birth": "1897",
+  "death": "1986 ou 1987",
+  "country": "Liban",
+  "region": "moyen-orient",
+  "published": "2026-05-24",
+  "summary": "Elle a été l'une des premières femmes musulmanes de la région à retirer son voile en public, à Beyrouth.",
+  "chronicle": [
+    "Beyrouth, 1927. Anbara Salam Khalidi parle à l'Université américaine de Beyrouth. Sa conférence s'intitule « Une femme orientale en Angleterre ». Selon une source, c'est le Sunday School Club de l'université qui l'a invitée.",
+    "Ce jour-là, elle retire son voile devant le public. Elle est l'une des premières femmes musulmanes de la région à le faire. Le geste fait du bruit : des protestations éclatent dans la ville.",
+    "Plus tard, sa vie se poursuit en Palestine. Elle y joue un rôle dans des associations de femmes. Elle traduit aussi en arabe l'Iliade et l'Odyssée. Elle meurt en 1986, ou en 1987 selon une autre source."
+  ],
+  "actions": [
+    {
+      "date": "1927",
+      "theme": "ecrire",
+      "text": "Elle donne une conférence à l'Université américaine de Beyrouth, intitulée « Une femme orientale en Angleterre » (ou « … à Londres » selon les sources)."
+    },
+    {
+      "date": "1927",
+      "theme": "corps",
+      "text": "Pendant cette conférence, elle retire son voile en public, l'une des premières femmes musulmanes de la région à le faire. Des protestations suivent à Beyrouth."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Anbara Salam Khalidi (Palquest)",
+      "url": "https://palquest.org/fr/node/9714"
+    },
+    {
+      "title": "Anbara Salam Khalidi, the Beirut intellectual with a rebellious heart (L'Orient-Le Jour)",
+      "url": "https://today.lorientlejour.com/article/1308930/anbara-salam-khalidi-the-beirut-intellectual-with-a-rebellious-heart.html"
+    },
+    {
+      "title": "Anbara Salam Khalidi (Institute for Palestine Studies)",
+      "url": "https://www.palestine-studies.org/en/node/1652990"
+    }
+  ]
+}
