@@ -1,0 +1,46 @@
+{
+  "name": "Bertha Lutz",
+  "birth": "1894",
+  "death": "1976",
+  "country": "Brésil",
+  "region": "ameriques",
+  "published": "2026-05-27",
+  "summary": "Elle a mené la campagne pour le vote des Brésiliennes, puis fait inscrire l'égalité entre femmes et hommes dans la Charte des Nations unies.",
+  "chronicle": [
+    "Bertha Lutz s'organise tôt. Selon le Sénat brésilien, elle fonde en 1919 une Ligue pour l'émancipation intellectuelle de la femme. Cette ligue devient la Fédération brésilienne pour le progrès féminin, la FBPF. C'est la première société féministe du Brésil. Elle mène la campagne pour le vote.",
+    "Le 24 février 1932, un décret change tout. Le nouveau code électoral dit qu'un électeur est un citoyen de plus de 21 ans, « sans distinction de sexe ». La Constitution de 1934 reprend cette règle.",
+    "En 1945, à San Francisco, les pays du monde écrivent la Charte des Nations unies. Bertha Lutz est l'une des quatre femmes qui la signent.",
+    "Avec Minerva Bernardino, elle obtient que la Charte parle d'égalité entre les femmes et les hommes. Elle aide aussi à créer la Commission de la condition de la femme."
+  ],
+  "actions": [
+    {
+      "date": "1919",
+      "theme": "organiser",
+      "text": "Elle fonde une Ligue pour l'émancipation intellectuelle de la femme, qui deviendra la Fédération brésilienne pour le progrès féminin."
+    },
+    {
+      "date": "1932-02-24",
+      "theme": "vote",
+      "text": "Le décret 21.076 ouvre le vote aux citoyens de plus de 21 ans « sans distinction de sexe »."
+    },
+    {
+      "date": "1945",
+      "theme": "droits-civils",
+      "text": "À San Francisco, elle signe la Charte des Nations unies et y fait inscrire l'égalité entre femmes et hommes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bertha Lutz, glossaire (Sénat fédéral du Brésil)",
+      "url": "https://www12.senado.leg.br/manualdecomunicacao/guia-legislativo/bertha-lutz"
+    },
+    {
+      "title": "24 de fevereiro, dia da conquista do voto feminino (Chambre des députés du Brésil)",
+      "url": "https://www2.camara.leg.br/a-camara/estruturaadm/secretarias/secretaria-da-mulher/24-de-fevereiro-dia-da-conquista-do-voto-feminino-no-brasil"
+    },
+    {
+      "title": "Not a woman's job : Bertha Lutz (ONU Genève)",
+      "url": "https://sites.ungeneva.org/not-a-womans-job/en/latin-american-and-caribbean-group/bertha-lutz.html"
+    }
+  ]
+}
