@@ -1,0 +1,47 @@
+{
+  "name": "Albertina Sisulu",
+  "birth": "1918",
+  "death": "2011",
+  "country": "Afrique du Sud",
+  "region": "afrique",
+  "published": "2026-05-30",
+  "summary": "Elle a cofondé la Fédération des femmes sud-africaines et organisé la grande marche des femmes de 1956 contre les laissez-passer.",
+  "chronicle": [
+    "Le 17 avril 1954, à Johannesburg, naît la Federation of South African Women. Elle adopte une Charte des femmes. Albertina Sisulu fait partie des fondatrices.",
+    "Le 9 août 1956, environ 20 000 femmes marchent sur les Union Buildings de Pretoria contre les laissez-passer. Albertina organise le transport et les billets de train. Enceinte, elle ne marche pas elle-même, d'après plusieurs sources. Le 9 août est aujourd'hui la Journée nationale des femmes en Afrique du Sud.",
+    "En 1958, la Ligue des femmes de l'ANC manifeste à Orlando contre les pass. Plus de 2 000 femmes sont arrêtées. Albertina passe environ trois semaines en prison.",
+    "Plus de trente ans plus tard, en 1990 et 1991, elle aide à rétablir la Ligue des femmes de l'ANC. En avril 1991, elle se retire de la course à la présidence de la Ligue, au profit de Gertrude Shope."
+  ],
+  "actions": [
+    {
+      "date": "1954-04-17",
+      "theme": "organiser",
+      "text": "Elle fait partie des fondatrices de la Federation of South African Women, qui adopte une Charte des femmes."
+    },
+    {
+      "date": "1956-08-09",
+      "theme": "droits-civils",
+      "text": "Elle organise le transport des quelque 20 000 femmes qui marchent sur Pretoria contre les laissez-passer."
+    },
+    {
+      "date": "1958",
+      "theme": "droits-civils",
+      "text": "Après une manifestation contre les pass à Orlando, elle est emprisonnée environ trois semaines."
+    },
+    {
+      "date": "1990",
+      "theme": "organiser",
+      "text": "Elle participe au comité qui rétablit la Ligue des femmes de l'ANC."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Albertina Nontsikelelo Sisulu (South African History Online)",
+      "url": "https://www.sahistory.org.za/people/albertina-nontsikelelo-sisulu"
+    },
+    {
+      "title": "60 iconic women: the people behind the 1956 women's march to Pretoria (Mail & Guardian)",
+      "url": "https://mg.co.za/2016-08-25-60-iconic-women-the-people-behind-the-1956-women-s-march-to-pretoria/"
+    }
+  ]
+}
