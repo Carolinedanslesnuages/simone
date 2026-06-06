@@ -1,0 +1,47 @@
+{
+  "name": "Rokeya Sakhawat Hossain",
+  "birth": "1880",
+  "death": "1932",
+  "country": "Inde britannique (Bengale)",
+  "region": "asie",
+  "published": "2026-06-06",
+  "summary": "Elle a imaginé un monde gouverné par les femmes et ouvert des écoles pour les filles musulmanes du Bengale.",
+  "chronicle": [
+    "Rokeya Sakhawat Hossain, qu'on appelle aussi Begum Rokeya, naît le 9 décembre 1880 au Bengale. C'est alors l'Inde britannique. Aujourd'hui, ce territoire est partagé entre le Bangladesh et l'Inde.",
+    "Elle écrit Sultana's Dream, « Le rêve de Sultana ». C'est une utopie féministe : les rôles des hommes et des femmes y sont inversés. Le texte paraît en 1905 dans The Indian Ladies' Magazine, à Madras. Une autre source donne 1908, sans doute la date du livre.",
+    "Elle ne se contente pas de rêver. Le 1er octobre 1909, elle ouvre une école pour filles musulmanes à Bhagalpur. Le 16 mars 1911, elle crée à Calcutta la Sakhawat Memorial Girls' School, au 13 Waliullah Lane. Il y a huit élèves.",
+    "En 1916, elle fonde l'Anjuman-e-Khawatin-e-Islam, une association de femmes musulmanes. Elle meurt le 9 décembre 1932, le jour de ses 52 ans."
+  ],
+  "actions": [
+    {
+      "date": "1905",
+      "theme": "ecrire",
+      "text": "Elle publie Sultana's Dream, une utopie féministe, dans The Indian Ladies' Magazine (1908 selon une autre source)."
+    },
+    {
+      "date": "1909-10-01",
+      "theme": "education",
+      "text": "Elle ouvre une école pour filles musulmanes à Bhagalpur."
+    },
+    {
+      "date": "1911-03-16",
+      "theme": "education",
+      "text": "Elle crée à Calcutta la Sakhawat Memorial Girls' School, avec huit élèves."
+    },
+    {
+      "date": "1916",
+      "theme": "organiser",
+      "text": "Elle fonde l'Anjuman-e-Khawatin-e-Islam, une association de femmes musulmanes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hossain, Roquiah Sakhawat (Banglapedia, Société asiatique du Bangladesh)",
+      "url": "https://en.banglapedia.org/index.php/Hossain,_Roquiah_Sakhawat"
+    },
+    {
+      "title": "The brilliant vision of Rokeya Sakhawat Hossain's Sultana's Dream (The MIT Press Reader)",
+      "url": "https://thereader.mitpress.mit.edu/the-brilliant-vision-of-rokeya-sakhawat-hossains-sultanas-dream/"
+    }
+  ]
+}
