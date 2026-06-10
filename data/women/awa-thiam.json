@@ -1,0 +1,51 @@
+{
+  "name": "Awa Thiam",
+  "birth": "1950",
+  "death": "",
+  "country": "Sénégal",
+  "region": "afrique",
+  "published": "2026-06-10",
+  "summary": "Elle a été la première Africaine à dénoncer publiquement l'excision comme une mutilation.",
+  "chronicle": [
+    "En 1978, Awa Thiam publie « La Parole aux négresses ». Le livre est préfacé par Benoîte Groult. Il donne la parole à des femmes africaines.",
+    "C'est la première fois qu'une Africaine dénonce publiquement l'excision, l'infibulation et la polygamie. Elle choisit un mot fort : l'excision est une « mutilation ».",
+    "Au tournant des années 1980, elle fonde la Commission pour l'abolition des mutilations sexuelles, la CAMS. Elle est dissoute peu après, puis recréée sous le nom de CAMS-International.",
+    "En 1986, le livre est traduit en anglais : « Black Sisters, Speak Out ». En mai 2024, il est réédité en français."
+  ],
+  "actions": [
+    {
+      "date": "1978",
+      "theme": "ecrire",
+      "text": "Elle publie « La Parole aux négresses », où une Africaine dénonce pour la première fois publiquement l'excision comme une mutilation."
+    },
+    {
+      "date": "1979",
+      "theme": "corps",
+      "text": "La Commission pour l'abolition des mutilations sexuelles (CAMS) est créée à Paris, en 1979 ou en 1982 selon les sources."
+    },
+    {
+      "date": "1986",
+      "theme": "ecrire",
+      "text": "Son livre paraît en anglais sous le titre « Black Sisters, Speak Out »."
+    },
+    {
+      "date": "2024-05",
+      "theme": "ecrire",
+      "text": "« La Parole aux négresses » est réédité en français chez Divergences."
+    }
+  ],
+  "sources": [
+    {
+      "title": "« La Parole aux négresses » d'Awa Thiam, redécouvrir un classique du féminisme africain (RTBF, Les Grenades)",
+      "url": "https://www.rtbf.be/article/la-parole-aux-negresses-d-awa-thiam-redecouvrir-un-classique-incontournable-du-feminisme-africain-11385688"
+    },
+    {
+      "title": "Awa Thiam (UFRGS, Mulheres africanas)",
+      "url": "https://www.ufrgs.br/africanas/thiam-awa-1950/"
+    },
+    {
+      "title": "Mutilations génitales féminines (AFLIT, Université d'Australie-Occidentale)",
+      "url": "https://aflit.arts.uwa.edu.au/MGF6.html"
+    }
+  ]
+}
