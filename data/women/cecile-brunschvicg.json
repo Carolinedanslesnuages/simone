@@ -1,0 +1,45 @@
+{
+  "name": "Cécile Brunschvicg",
+  "birth": "1877",
+  "death": "1946",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-06-12",
+  "summary": "Elle a dirigé l'Union française pour le suffrage des femmes et fait partie des trois premières femmes entrées au gouvernement.",
+  "chronicle": [
+    "En 1910, Cécile Brunschvicg devient secrétaire générale de l'Union française pour le suffrage des femmes (UFSF). Cette association réclame le droit de vote pour les femmes. En 1924, elle en prend la présidence. Elle la garde jusqu'en 1946.",
+    "En juin 1936, elle entre dans le gouvernement Blum comme sous-secrétaire d'État à l'Éducation nationale. Elle y reste jusqu'en juin 1937.",
+    "Elle est l'une des trois premières femmes membres d'un gouvernement, avec Suzanne Lacore et Irène Joliot-Curie. Pourtant, à ce moment-là, les femmes ne votent pas encore."
+  ],
+  "actions": [
+    {
+      "date": "1910",
+      "theme": "organiser",
+      "text": "Devient secrétaire générale de l'Union française pour le suffrage des femmes."
+    },
+    {
+      "date": "1924",
+      "theme": "organiser",
+      "text": "Prend la présidence de l'Union française pour le suffrage des femmes, jusqu'en 1946."
+    },
+    {
+      "date": "1936-06",
+      "theme": "vote",
+      "text": "Devient sous-secrétaire d'État à l'Éducation nationale, l'une des trois premières femmes au gouvernement, alors que les femmes ne votent pas."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Brunschvicg, Cécile (1877–1946) (Encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/brunschvicg-cecile-1877-1946"
+    },
+    {
+      "title": "Cécile Brunschvicg (Jewish Women's Archive)",
+      "url": "https://cdn.jwa.org/encyclopedia/article/brunschvicg-cecile"
+    },
+    {
+      "title": "Composition du gouvernement Blum (Assemblée nationale)",
+      "url": "https://www2.assemblee-nationale.fr/14/evenements/2016/80eme-anniversaire-de-la-victoire-du-front-populaire-3-mai-2016/le-nouveau-gouvernement/composition-du-gouvernement"
+    }
+  ]
+}
