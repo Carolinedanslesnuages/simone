@@ -1,0 +1,36 @@
+{
+  "name": "Ana Roqué de Duprey",
+  "birth": "1853",
+  "death": "1933",
+  "country": "Porto Rico",
+  "region": "ameriques",
+  "published": "2026-06-15",
+  "summary": "Elle a lancé la première organisation suffragiste de Porto Rico.",
+  "chronicle": [
+    "En 1917, une loi, le Jones Act, réserve le vote aux hommes à Porto Rico. Ana Roqué de Duprey réagit.",
+    "La même année, elle fonde la Liga Femínea Puertorriqueña. Certaines sources disent qu'elle la cofonde. C'est la première organisation de l'île qui se bat pour le vote des femmes.",
+    "En 1921, la Ligue change de nom et devient la Liga Social Sufragista. Elle réclame les droits civils et politiques des femmes, et le droit d'être élues. Son journal, le « Heraldo de la Mujer », porte le débat."
+  ],
+  "actions": [
+    {
+      "date": "1917",
+      "theme": "organiser",
+      "text": "En réaction au Jones Act, elle fonde la Liga Femínea Puertorriqueña, première organisation suffragiste de l'île."
+    },
+    {
+      "date": "1921",
+      "theme": "vote",
+      "text": "La Ligue devient la Liga Social Sufragista et réclame les droits civils et politiques des femmes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ana Roqué de Duprey (National Women's History Museum)",
+      "url": "https://www.womenshistory.org/education-resources/biographies/ana-roque-de-duprey"
+    },
+    {
+      "title": "Article sur la Liga Social Sufragista (Revistas Chilenas, Universidad de Chile)",
+      "url": "https://revistaschilenas.uchile.cl/handle/2250/144475"
+    }
+  ]
+}
