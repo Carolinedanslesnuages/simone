@@ -1,0 +1,51 @@
+{
+  "name": "Annie Ruth Jiagge",
+  "birth": "1918",
+  "death": "1996",
+  "country": "Ghana",
+  "region": "afrique",
+  "published": "2026-06-17",
+  "summary": "Juge ghanéenne, elle a préparé à l'ONU le texte qui a mené à la Déclaration sur l'élimination de la discrimination à l'égard des femmes.",
+  "chronicle": [
+    "En 1961, Annie Ruth Jiagge devient juge à la Haute Cour du Ghana. Elle est l'une des premières femmes du Commonwealth à ce poste.",
+    "De 1962 à 1972, elle représente le Ghana à la Commission de la condition de la femme de l'ONU.",
+    "Elle est la principale rédactrice d'un document de travail. De ce texte part la Déclaration sur l'élimination de la discrimination à l'égard des femmes. L'Assemblée générale de l'ONU l'adopte le 7 novembre 1967.",
+    "En 1979, la CEDAW prolonge cette déclaration : cette fois, la convention engage les pays qui la signent. En juillet 1980, à Copenhague, le Ghana la signe."
+  ],
+  "actions": [
+    {
+      "date": "1961",
+      "theme": "travail",
+      "text": "Elle est nommée juge à la Haute Cour, l'une des premières femmes du Commonwealth à ce poste."
+    },
+    {
+      "date": "1962",
+      "theme": "organiser",
+      "text": "Elle commence à représenter le Ghana à la Commission de la condition de la femme de l'ONU, jusqu'en 1972."
+    },
+    {
+      "date": "1967-11-07",
+      "theme": "droits-civils",
+      "text": "L'ONU adopte la Déclaration sur l'élimination de la discrimination à l'égard des femmes. Le texte part d'un document de travail qu'elle a principalement rédigé."
+    },
+    {
+      "date": "1980-07",
+      "theme": "droits-civils",
+      "text": "Le Ghana signe à Copenhague la CEDAW, adoptée en 1979 dans le prolongement de la déclaration."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Women's rights as international human rights: Justice Annie Jiagge of Ghana (Université de Birmingham)",
+      "url": "https://blog.bham.ac.uk/archiveofactivism/2019/07/23/womens-rights-as-international-human-rights-justice-annie-jiagge-of-ghana/"
+    },
+    {
+      "title": "Annie Ruth Jiagge, Portraits of Women in International Law (Université d'Helsinki)",
+      "url": "https://www.helsinki.fi/en/projects/portraits-women-international-law/portraits-women-international-law-new-names-forgotten-faces/portrait-gallery-new-names-and-forgotten-faces/05-hall-diversity-feminist-activism-international-law/annie-ruth-jiagge"
+    },
+    {
+      "title": "Déclaration sur l'élimination de la discrimination à l'égard des femmes (Refworld, HCR)",
+      "url": "https://www.refworld.org/node/38169"
+    }
+  ]
+}
