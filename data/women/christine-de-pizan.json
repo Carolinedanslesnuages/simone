@@ -1,0 +1,41 @@
+{
+  "name": "Christine de Pizan",
+  "birth": "vers 1365",
+  "death": "vers 1431",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-06-19",
+  "summary": "Elle a écrit l'un des premiers livres pour défendre les femmes contre la misogynie.",
+  "chronicle": [
+    "En 1405, Christine de Pizan publie « Le Livre de la Cité des dames ». C'est un ouvrage en prose. On le considère comme l'un des premiers textes écrits pour défendre les femmes.",
+    "Dans ce livre, elle répond à ceux qui disent du mal des femmes. Elle ne se contente pas de protester : elle argumente. C'est la première réfutation argumentée de la misogynie.",
+    "La même année, elle écrit une suite : « Le Trésor de la Cité des dames », aussi appelé « Livre des trois vertus ». C'est un manuel d'éducation pour les femmes.",
+    "Son combat n'a pas changé une loi. Il a changé les idées. La Bibliothèque nationale de France conserve encore plusieurs manuscrits de la « Cité des dames »."
+  ],
+  "actions": [
+    {
+      "date": "1405",
+      "theme": "ecrire",
+      "text": "Publie « Le Livre de la Cité des dames », l'un des premiers textes de défense des femmes."
+    },
+    {
+      "date": "1405",
+      "theme": "education",
+      "text": "Écrit « Le Trésor de la Cité des dames », un manuel d'éducation des femmes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Book of the City of Ladies (Britannica)",
+      "url": "https://www.britannica.com/topic/The-Book-of-the-City-of-Ladies"
+    },
+    {
+      "title": "Le statut des femmes, de Pizan et la réforme (World History Encyclopedia)",
+      "url": "https://www.worldhistory.org/trans/fr/2-1965/le-statut-des-femmes-de-pizan-et-la-reforme/"
+    },
+    {
+      "title": "Christine de Pizan, La Cité des dames (data.bnf.fr)",
+      "url": "https://data.bnf.fr/12340696/christine_de_pizan_la_cite_des_dames/fr.pdf"
+    }
+  ]
+}
