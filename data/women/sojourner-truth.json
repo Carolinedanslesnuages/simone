@@ -1,0 +1,46 @@
+{
+  "name": "Sojourner Truth",
+  "birth": "vers 1797",
+  "death": "1883",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "published": "2026-06-27",
+  "summary": "Son discours d'Akron, à une convention des droits des femmes en 1851, est l'un des plus célèbres de l'histoire du mouvement.",
+  "chronicle": [
+    "Mai 1851, à Akron, dans l'Ohio. Une convention des droits des femmes se tient dans une église, la « Old Stone ». Sojourner Truth se lève et prend la parole.",
+    "Ce discours est resté célèbre sous le nom « Ain't I a Woman? », « Ne suis-je pas une femme ? ». La plupart des sources le placent le 29 mai. La convention avait commencé la veille, le 28.",
+    "Attention : on connaît deux versions du texte. La première est le compte rendu de Marius Robinson, publié le 21 juin 1851 dans l'Anti-Slavery Bugle. La seconde est publiée en 1863 par Frances Dana Gage. La fameuse question « Ain't I a Woman? » vient surtout de cette version tardive.",
+    "Les mots exacts restent donc incertains. Mais la scène, elle, est bien réelle : Sojourner Truth a pris la parole à Akron, devant une convention des droits des femmes."
+  ],
+  "actions": [
+    {
+      "date": "1851-05",
+      "theme": "ecrire",
+      "text": "À la convention d'Akron, elle prononce le discours resté célèbre sous le nom « Ain't I a Woman? », sans doute le 29 mai."
+    },
+    {
+      "date": "1851-06-21",
+      "theme": "ecrire",
+      "text": "Marius Robinson publie un compte rendu de son discours dans l'Anti-Slavery Bugle."
+    },
+    {
+      "date": "1863",
+      "theme": "ecrire",
+      "text": "Frances Dana Gage publie une autre version du discours, celle du refrain « Ain't I a Woman? »."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sojourner Truth (National Park Service, Women's Rights NHP)",
+      "url": "https://www.nps.gov/wori/learn/historyculture/sojourner-truth.htm"
+    },
+    {
+      "title": "Ain't I a Woman? Lesson plan (National Park Service)",
+      "url": "https://www.nps.gov/articles/000/aint-i-a-woman-lesson-plan.htm"
+    },
+    {
+      "title": "Sojourner Truth's battle cry still resonates (National Geographic)",
+      "url": "https://www.nationalgeographic.com/history/article/sojourner-truth-battle-cry-still-resonates-170-years-later"
+    }
+  ]
+}
