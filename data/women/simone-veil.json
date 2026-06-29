@@ -1,0 +1,56 @@
+{
+  "name": "Simone Veil",
+  "birth": "1927",
+  "death": "2017",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-06-29",
+  "summary": "Elle a porté devant les députés la loi qui autorise l'interruption volontaire de grossesse (IVG).",
+  "chronicle": [
+    "Le 15 novembre 1974, le projet de loi sur l'interruption volontaire de grossesse (IVG) est déposé. C'est Simone Veil qui le porte : on l'appellera la loi Veil.",
+    "Le 26 novembre 1974, elle prononce son discours devant l'Assemblée nationale. Elle y dit notamment : « L'avortement doit rester l'exception… »",
+    "Le vote a lieu dans la nuit. Les députés adoptent le texte par 284 voix contre 189. Les sources hésitent sur la date : le 28 novembre pour l'Assemblée nationale, le 29 novembre à 3 h 40 pour Vie-publique.",
+    "Le Sénat vote à son tour le 14 décembre 1974. La loi est promulguée le 17 janvier 1975."
+  ],
+  "actions": [
+    {
+      "date": "1974-11-15",
+      "theme": "corps",
+      "text": "Le projet de loi sur l'IVG est déposé."
+    },
+    {
+      "date": "1974-11-26",
+      "theme": "corps",
+      "text": "Défend le projet de loi dans un discours à l'Assemblée nationale."
+    },
+    {
+      "date": "1974-11",
+      "theme": "corps",
+      "text": "Les députés adoptent le texte par 284 voix contre 189, dans la nuit."
+    },
+    {
+      "date": "1974-12-14",
+      "theme": "corps",
+      "text": "Le Sénat vote le texte."
+    },
+    {
+      "date": "1975-01-17",
+      "theme": "corps",
+      "text": "La loi sur l'IVG est promulguée."
+    }
+  ],
+  "sources": [
+    {
+      "title": "La loi du 17 janvier 1975, le dossier législatif (Assemblée nationale)",
+      "url": "https://www2.assemblee-nationale.fr/14/evenements/2015/anniversaire-loi-veil/la-loi-du-17-janvier-1975/le-dossier-legislatif"
+    },
+    {
+      "title": "Brochure Simone Veil (Assemblée nationale)",
+      "url": "https://www2.assemblee-nationale.fr/content/download/69153/704976/version/2/file/Brochure%2BSimone%2BVeil.pdf"
+    },
+    {
+      "title": "Loi Veil autorisant l'IVG : 50 ans du droit à l'avortement (Vie-publique)",
+      "url": "https://www.vie-publique.fr/dossier/296729-loi-veil-autorisant-livg-50-ans-du-droit-lavortement"
+    }
+  ]
+}
