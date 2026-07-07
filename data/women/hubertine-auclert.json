@@ -1,0 +1,55 @@
+{
+  "name": "Hubertine Auclert",
+  "birth": "1848",
+  "death": "1914",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-07-07",
+  "summary": "Elle a fondé la première association française pour le droit de vote des femmes.",
+  "chronicle": [
+    "En 1876, Hubertine Auclert fonde la société « Le Droit des femmes ». C'est la première association suffragiste française : elle réclame le droit de vote pour les femmes. En 1883, elle devient la Société le Suffrage des femmes.",
+    "En février 1880, elle conduit une délégation de femmes qui veulent s'inscrire sur les listes électorales. On les refuse. Elle lance alors une « grève de l'impôt » : pas d'impôt sans droit de vote. En 1881, elle fonde un journal, « La Citoyenne ».",
+    "Elle ne lâche rien. En mai 1908, lors des élections municipales à Paris, elle renverse une urne. La même année, elle publie « Le Vote des femmes ». En 1910, elle se présente aux législatives, une candidature illégale."
+  ],
+  "actions": [
+    {
+      "date": "1876",
+      "theme": "organiser",
+      "text": "Fonde « Le Droit des femmes », la première association suffragiste française."
+    },
+    {
+      "date": "1880-02",
+      "theme": "vote",
+      "text": "Conduit une délégation qui tente de s'inscrire sur les listes électorales, puis lance une « grève de l'impôt »."
+    },
+    {
+      "date": "1881",
+      "theme": "ecrire",
+      "text": "Fonde le journal « La Citoyenne »."
+    },
+    {
+      "date": "1908-05",
+      "theme": "vote",
+      "text": "Renverse une urne lors des municipales à Paris. La même année, elle publie « Le Vote des femmes »."
+    },
+    {
+      "date": "1910",
+      "theme": "vote",
+      "text": "Se présente aux législatives, une candidature illégale."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Auclert, Hubertine (1848–1914) (Encyclopedia.com)",
+      "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/auclert-hubertine-1848-1914"
+    },
+    {
+      "title": "Women's Suffrage Society, 1876-1909 (Université de Caroline du Nord)",
+      "url": "https://hist259.web.unc.edu/womens-suffrage-society-societe-le-suffrage-des-femmes-1876-1909/"
+    },
+    {
+      "title": "Écrits féministes pour le vote des femmes (Assemblée nationale)",
+      "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-conquete-de-la-citoyennete-politique-des-femmes/ecrits-feministes-pour-le-vote-des-femmes"
+    }
+  ]
+}
