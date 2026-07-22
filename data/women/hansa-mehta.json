@@ -1,0 +1,41 @@
+{
+  "name": "Hansa Mehta",
+  "birth": "1897",
+  "death": "1995",
+  "country": "Inde",
+  "region": "asie",
+  "published": "2026-07-22",
+  "summary": "Grâce à elle, la Déclaration universelle des droits de l'homme dit « tous les êtres humains », et pas « tous les hommes ».",
+  "chronicle": [
+    "Hansa Mehta est indienne. En 1947 et 1948, elle siège à la Commission des droits de l'homme de l'ONU. La Commission prépare un grand texte pour le monde entier : la Déclaration universelle des droits de l'homme.",
+    "Le premier article commence ainsi : « all men are born free and equal », « tous les hommes naissent libres et égaux ». Hansa Mehta n'est pas d'accord. Le mot « men » laisse les femmes de côté.",
+    "Eleanor Roosevelt pense que « men » inclut les femmes. Hansa Mehta tient bon. On lui doit principalement la nouvelle formule : « all human beings are born free and equal », « tous les êtres humains naissent libres et égaux ».",
+    "La Déclaration est adoptée le 10 décembre 1948. Grâce à elle, les femmes y sont nommées dès la première ligne."
+  ],
+  "actions": [
+    {
+      "date": "1947",
+      "theme": "droits-civils",
+      "text": "À la Commission des droits de l'homme de l'ONU, elle demande de remplacer « all men » par « all human beings » dans l'article 1."
+    },
+    {
+      "date": "1948-12-10",
+      "theme": "droits-civils",
+      "text": "La Déclaration universelle des droits de l'homme est adoptée avec sa formule : « tous les êtres humains naissent libres et égaux »."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Women who shaped the Universal Declaration (Nations unies)",
+      "url": "https://www.un.org/en/observances/human-rights-day/women-who-shaped-the-universal-declaration"
+    },
+    {
+      "title": "70e anniversaire de la Déclaration universelle des droits de l'homme (Nations unies au Turkménistan)",
+      "url": "https://turkmenistan.un.org/en/node/875"
+    },
+    {
+      "title": "Hansa Mehta (Verfassungsblog)",
+      "url": "https://verfassungsblog.de/hansa-mehta/"
+    }
+  ]
+}
