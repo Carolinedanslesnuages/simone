@@ -1,0 +1,46 @@
+{
+  "name": "Nellie McClung",
+  "birth": "1873",
+  "death": "1951",
+  "country": "Canada",
+  "region": "ameriques",
+  "published": "2026-07-28",
+  "summary": "Elle a fait rire Winnipeg pour obtenir le vote des femmes, puis gagné l'affaire « personne » avec les « Célèbres cinq ».",
+  "chronicle": [
+    "Janvier 1914, au Walker Theatre de Winnipeg. Sur scène, un parlement pour de faux, le « Women's Parliament ». Nellie McClung joue la Première ministre. Elle se moque du vrai premier ministre, Roblin. La plupart des sources datent la soirée du 28 janvier, certaines du 27.",
+    "Deux ans plus tard, le 28 janvier 1916, le Manitoba devient la première province canadienne à donner le vote aux femmes. Pas à toutes les femmes, rappelle la Revue parlementaire canadienne.",
+    "Puis vient l'affaire « personne ». Cinq femmes, les « Célèbres cinq », demandent si les femmes sont des « personnes » au sens de la loi. Le 18 octobre 1929, à Londres, le Conseil privé répond oui. Les femmes peuvent siéger au Sénat.",
+    "Une nuance s'impose. L'Encyclopédie canadienne rappelle que ce groupe est critiqué comme raciste et élitiste. Certaines de ses membres défendaient des idées eugénistes."
+  ],
+  "actions": [
+    {
+      "date": "1914-01",
+      "theme": "vote",
+      "text": "Au Walker Theatre de Winnipeg, elle joue la Première ministre dans un parlement simulé qui se moque du premier ministre Roblin."
+    },
+    {
+      "date": "1916-01-28",
+      "theme": "vote",
+      "text": "Le Manitoba devient la première province à accorder le vote aux femmes, mais pas à toutes."
+    },
+    {
+      "date": "1929-10-18",
+      "theme": "droits-civils",
+      "text": "Avec les « Célèbres cinq », elle gagne l'affaire « personne » : les femmes peuvent siéger au Sénat."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mock Parliament 1914 (L'Encyclopédie canadienne)",
+      "url": "https://thecanadianencyclopedia.ca/en/article/mock-parliament-1914"
+    },
+    {
+      "title": "Journée de l'affaire « personne » (Gouvernement du Canada)",
+      "url": "https://www.canada.ca/en/women-gender-equality/commemorations-celebrations/womens-history-month/persons-day.html"
+    },
+    {
+      "title": "Persons Case (L'Encyclopédie canadienne)",
+      "url": "https://www.thecanadianencyclopedia.ca/article/persons-case"
+    }
+  ]
+}
