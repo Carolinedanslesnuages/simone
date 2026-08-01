@@ -1,0 +1,46 @@
+{
+  "name": "Marie-Andrée Lagroua Weill-Hallé",
+  "birth": "1916",
+  "death": "1994",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-08-01",
+  "summary": "Elle a fondé La Maternité heureuse, l'ancêtre du Planning familial, pour faire changer la loi qui interdisait d'informer sur la contraception.",
+  "chronicle": [
+    "Le 8 mars 1956, Marie-Andrée Lagroua Weill-Hallé fonde l'association La Maternité heureuse, avec Évelyne Sullerot et, selon certaines sources, Pierre Simon. Elle en est la première présidente.",
+    "Son but est de faire modifier la loi de 1920. Cette loi interdit la « propagande anticonceptionnelle », c'est-à-dire l'information sur la contraception.",
+    "Certaines sources datent l'association de 1955. La date de 1956 correspond au dépôt de ses statuts. En 1960, La Maternité heureuse devient le Mouvement français pour le planning familial.",
+    "Ce combat aboutit à la loi Neuwirth, en 1967."
+  ],
+  "actions": [
+    {
+      "date": "1956-03-08",
+      "theme": "corps",
+      "text": "Fonde La Maternité heureuse et en devient la première présidente."
+    },
+    {
+      "date": "1960",
+      "theme": "organiser",
+      "text": "L'association devient le Mouvement français pour le planning familial."
+    },
+    {
+      "date": "1967",
+      "theme": "corps",
+      "text": "Le combat de l'association aboutit à la loi Neuwirth."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Marie-Andrée Lagroua Weill-Hallé, pionnière de l'information sexuelle (Slate)",
+      "url": "https://www.slate.fr/societe/sexe-en-liberte/marie-andree-lagroua-weill-halle-pionniere-information-sexuelle"
+    },
+    {
+      "title": "Planning familial (Universalis)",
+      "url": "https://www.universalis.fr/encyclopedie/planning-familial/"
+    },
+    {
+      "title": "La loi Neuwirth, 1967 : un tournant historique (Fondation Jean-Jaurès)",
+      "url": "https://jean-jaures.org/nos-productions/la-loi-neuwirth-1967-un-tournant-historique"
+    }
+  ]
+}
