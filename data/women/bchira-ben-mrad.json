@@ -1,0 +1,41 @@
+{
+  "name": "Bchira Ben Mrad",
+  "birth": "1913",
+  "death": "1993",
+  "country": "Tunisie",
+  "region": "afrique",
+  "published": "2026-08-05",
+  "summary": "Elle a créé la première organisation de femmes de Tunisie, pour instruire les filles et faire entrer les femmes dans le combat national.",
+  "chronicle": [
+    "En 1936, Bchira Ben Mrad fonde l'Union musulmane des femmes de Tunisie. C'est la première organisation de femmes du pays. Une source donne 1937, mais la plupart retiennent 1936.",
+    "L'association a deux buts. D'abord, instruire les filles. Ensuite, mobiliser les femmes dans le mouvement national. Bchira Ben Mrad la préside pendant vingt ans, jusqu'à sa dissolution en 1956.",
+    "Cette même année, le 13 août 1956, la Tunisie promulgue le Code du statut personnel. En 2026, pour les 70 ans de ce code, un ouvrage collectif rend hommage à cette pionnière."
+  ],
+  "actions": [
+    {
+      "date": "1936",
+      "theme": "organiser",
+      "text": "Elle fonde l'Union musulmane des femmes de Tunisie, première organisation de femmes du pays, pour l'instruction des filles et la mobilisation des femmes dans le mouvement national."
+    },
+    {
+      "date": "1956",
+      "theme": "organiser",
+      "text": "L'Union musulmane des femmes de Tunisie, qu'elle a présidée depuis sa création, est dissoute."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bchira Ben Mrad: a pioneer feminist (1913-1993) (Granthaalayah)",
+      "author": "Khedija Arfaoui",
+      "url": "https://www.granthaalayahpublication.org/journals-html-galley/36_IJRG20_B08_3666.html"
+    },
+    {
+      "title": "Bchira Ben Mrad, pionnière du féminisme tunisien, au cœur d'un nouvel ouvrage (L'Économiste maghrébin)",
+      "url": "https://www.leconomistemaghrebin.com/2026/08/17/bchira-ben-mrad-pionniere-du-feminisme-tunisien-au-coeur-dun-nouvel-ouvrage/"
+    },
+    {
+      "title": "Bchira Ben Mrad, pionnière du féminisme tunisien, au cœur d'un nouvel ouvrage (La Presse de Tunisie)",
+      "url": "https://www.lapresse.tn/2026/08/17/bchira-ben-mrad-pionniere-du-feminisme-tunisien-au-coeur-dun-nouvel-ouvrage/"
+    }
+  ]
+}
