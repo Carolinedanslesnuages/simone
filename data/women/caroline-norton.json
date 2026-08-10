@@ -1,0 +1,40 @@
+{
+  "name": "Caroline Norton",
+  "birth": "1808",
+  "death": "1877",
+  "country": "Royaume-Uni",
+  "region": "europe",
+  "published": "2026-08-10",
+  "summary": "Ses pamphlets ont donné aux mères anglaises un premier droit sur la garde de leurs enfants.",
+  "chronicle": [
+    "Caroline Norton écrit des pamphlets. L'un d'eux est envoyé à chaque député. En 1839, le Parlement vote le Custody of Infants Act. Pour la première fois, une mère peut demander au tribunal la garde de ses enfants de moins de 7 ans, et un droit de visite pour les plus grands.",
+    "En 1857, elle écrit à la reine Victoria pour protester. Ses lettres pèsent dans le Matrimonial Causes Act, une loi sur le mariage et le divorce. Elle supprime une partie des inégalités imposées aux femmes mariées. Selon l'Open University, 4 des 68 articles viennent de ses pamphlets.",
+    "Une nuance : Caroline Norton ne se disait pas féministe. Elle ne croyait pas à l'égalité des sexes. Pourtant, ses combats ont fait avancer les droits des femmes mariées."
+  ],
+  "actions": [
+    {
+      "date": "1839",
+      "theme": "droits-civils",
+      "text": "Ses pamphlets obtiennent le Custody of Infants Act : une mère peut demander la garde de ses enfants de moins de 7 ans."
+    },
+    {
+      "date": "1857",
+      "theme": "droits-civils",
+      "text": "Ses lettres à la reine Victoria pèsent dans le Matrimonial Causes Act, qui réduit les inégalités imposées aux femmes mariées."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Custody rights (UK Parliament)",
+      "url": "https://webtest.parliament.uk/about/living-heritage/transformingsociety/private-lives/relationships/overview/custodyrights"
+    },
+    {
+      "title": "Meet Caroline Norton (Open University Law School)",
+      "url": "https://law-school.open.ac.uk/meet-caroline-norton-fighting-womens-rights-it-was-even-cool"
+    },
+    {
+      "title": "Caroline Norton (Britannica)",
+      "url": "https://www.britannica.com/biography/Caroline-Norton/article-history"
+    }
+  ]
+}
