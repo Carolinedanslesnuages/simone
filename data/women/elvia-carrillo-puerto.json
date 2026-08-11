@@ -1,0 +1,41 @@
+{
+  "name": "Elvia Carrillo Puerto",
+  "birth": "1878 ou 1881",
+  "death": "entre 1965 et 1968",
+  "country": "Mexique",
+  "region": "ameriques",
+  "published": "2026-08-11",
+  "summary": "Elle a été l'une des premières femmes élues dans un congrès d'État au Mexique, au Yucatán.",
+  "chronicle": [
+    "Le 18 novembre 1923, au Yucatán, trois femmes sont élues députées au Congrès de l'État. Elvia Carrillo Puerto est l'une d'elles, avec Beatriz Peniche Barrera et Raquel Dzib Cicero. Elles représentent le Parti socialiste du Sud-Est.",
+    "Sont-elles les premières du Mexique, ou parmi les premières ? Les sources ne disent pas toutes la même chose. Elles hésitent aussi sur sa circonscription : Izamal pour le Diario de Yucatán, le Ve district pour une autre source.",
+    "En janvier 1924, son frère Felipe, gouverneur du Yucatán, est assassiné. Elvia doit quitter l'État. Elle tente ensuite d'être candidate à San Luis Potosí.",
+    "Même ses dates de vie restent floues : née en 1878 ou en 1881, morte en 1965, 1967 ou 1968 selon les sources."
+  ],
+  "actions": [
+    {
+      "date": "1923-11-18",
+      "theme": "vote",
+      "text": "Elle est élue députée au Congrès du Yucatán, avec Beatriz Peniche Barrera et Raquel Dzib Cicero."
+    },
+    {
+      "date": "1924",
+      "theme": "vote",
+      "text": "Après l'assassinat de son frère, elle doit quitter le Yucatán, puis tente une candidature à San Luis Potosí."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Reconocimiento Elvia Carrillo Puerto (Congrès du Yucatán)",
+      "url": "https://www.congresoyucatan.gob.mx/storage/uploadCey/4d1ba8_07-DIC-22%20RECONOCIMIENTO%20ELVIA%20CARRILLO%20PUERTO.docx"
+    },
+    {
+      "title": "Elvia Carrillo Puerto (Commission nationale des droits humains, Mexique)",
+      "url": "https://www.cndh.org.mx/sites/default/files/documentos/2023-12/FRN_ENE_30-1.pdf"
+    },
+    {
+      "title": "Siemprevivas : Rita Cetina, Elvia Carrillo Puerto, Rosa Torre (INEHRM, Mexique)",
+      "url": "https://inehrm.gob.mx/recursos/Libros/2025_siemprevivas_rita_cetina_gutierrez_elvia_carrillo_puerto_rosa_torre_gonzalez_ysus_tiempos.pdf"
+    }
+  ]
+}
