@@ -1,0 +1,46 @@
+{
+  "name": "Jeanne Chauvin",
+  "birth": "1862",
+  "death": "1926",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-08-12",
+  "summary": "Par sa campagne, elle a obtenu la loi qui ouvre le métier d'avocat aux femmes.",
+  "chronicle": [
+    "En 1897, Jeanne Chauvin se présente à la cour d'appel de Paris pour prêter serment comme avocate. On la refuse : la loi ne permet pas aux femmes d'exercer ce métier.",
+    "Elle mène alors campagne pour changer la loi. Avec le soutien de Raymond Poincaré et de René Viviani, elle obtient une loi qui ouvre le barreau aux femmes. Elle date du 1er décembre 1900 selon Actu-Juridique. Encyclopedia.com parle d'une loi promulguée le 13 novembre 1900.",
+    "Une autre femme passe la première : Olga Petit prête serment le 6 décembre 1900. Jeanne Chauvin le fait à son tour, le 19 décembre 1900 selon la date la plus fréquente. Une légende de photographie donne le 7 décembre.",
+    "Elle n'est donc pas la première avocate assermentée. Mais c'est elle qui a obtenu la loi. Les sources la donnent aussi comme la première avocate à plaider, en 1901 ou en 1907 selon les cas."
+  ],
+  "actions": [
+    {
+      "date": "1897",
+      "theme": "travail",
+      "text": "Se présente pour prêter serment comme avocate. Elle est refusée."
+    },
+    {
+      "date": "1900",
+      "theme": "travail",
+      "text": "Obtient par sa campagne la loi qui ouvre le barreau aux femmes."
+    },
+    {
+      "date": "1900-12",
+      "theme": "travail",
+      "text": "Prête serment devant la cour d'appel de Paris, peu après Olga Petit."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jeanne Chauvin, première femme avocate et modèle de ténacité (Actu-Juridique)",
+      "url": "https://www.actu-juridique.fr/professions/jeanne-chauvin-premiere-femme-avocate-et-modele-de-tenacite/"
+    },
+    {
+      "title": "Avocates parisiennes, 125 ans de combat (Actu-Juridique)",
+      "url": "https://www.actu-juridique.fr/professions/avocates-parisiennes-125-ans-de-combat"
+    },
+    {
+      "title": "Chauvin, Jeanne (1862–1926) (Encyclopedia.com)",
+      "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/chauvin-jeanne-1862-1926"
+    }
+  ]
+}
