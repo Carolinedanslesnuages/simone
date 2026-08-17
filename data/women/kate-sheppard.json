@@ -1,0 +1,46 @@
+{
+  "name": "Kate Sheppard",
+  "birth": "1847 ou 1848",
+  "death": "1934",
+  "country": "Nouvelle-Zélande",
+  "region": "oceanie",
+  "published": "2026-08-17",
+  "summary": "Elle a mené la campagne qui a fait de la Nouvelle-Zélande le premier pays où les femmes votent aux élections nationales.",
+  "chronicle": [
+    "À partir de 1887, Kate Sheppard dirige le mouvement pour le droit de vote des femmes en Nouvelle-Zélande.",
+    "En 1893, elle organise la plus grande de toutes. Chez elle, à Christchurch, elle colle bout à bout 546 feuilles couvertes de signatures. Le rouleau est immense.",
+    "Le 28 juillet 1893, la pétition « monstre » arrive au Parlement. Elle porte 31 872 signatures, près de 32 000. Les députés ne peuvent plus l'ignorer.",
+    "Le 19 septembre 1893, la loi électorale est adoptée. La Nouvelle-Zélande devient le premier pays où les femmes votent aux élections nationales. Moins de deux mois plus tard, 109 461 femmes sont inscrites sur les listes."
+  ],
+  "actions": [
+    {
+      "date": "1887",
+      "theme": "organiser",
+      "text": "Elle prend la tête du travail du mouvement pour le droit de vote des femmes."
+    },
+    {
+      "date": "1893-07-28",
+      "theme": "vote",
+      "text": "La pétition qu'elle a organisée est déposée au Parlement : 546 feuilles collées bout à bout, 31 872 signatures."
+    },
+    {
+      "date": "1893-09-19",
+      "theme": "vote",
+      "text": "La loi électorale est adoptée : les Néo-Zélandaises sont les premières au monde à voter aux élections nationales."
+    }
+  ],
+  "sources": [
+    {
+      "title": "La pétition pour le vote des femmes (He Tohu, Bibliothèque nationale de Nouvelle-Zélande)",
+      "url": "https://natlib.govt.nz/he-tohu/about/womens-suffrage-petition"
+    },
+    {
+      "title": "La pétition pour le vote des femmes (Archives New Zealand)",
+      "url": "https://archives.govt.nz/discover-our-stories/womens-suffrage-petition"
+    },
+    {
+      "title": "Kate Sheppard (NZHistory, ministère de la Culture de Nouvelle-Zélande)",
+      "url": "https://nzhistory.govt.nz/people/kate-sheppard"
+    }
+  ]
+}
