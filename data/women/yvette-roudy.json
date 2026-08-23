@@ -1,0 +1,51 @@
+{
+  "name": "Yvette Roudy",
+  "birth": "1929",
+  "death": "2026",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-08-23",
+  "summary": "Première ministre déléguée aux Droits de la femme, elle a fait adopter le remboursement de l'IVG et la loi sur l'égalité professionnelle.",
+  "chronicle": [
+    "En 1971, Yvette Roudy signe le Manifeste des 343.",
+    "Le 21 mai 1981, elle est nommée ministre déléguée aux Droits de la femme. Elle est la première à porter ce titre. Elle le garde jusqu'au 20 mars 1986.",
+    "En 1982, sous son impulsion, la France reconnaît officiellement le 8 mars. La loi du 31 décembre 1982 prévoit le remboursement de l'IVG par la Sécurité sociale. Une chronologie du Quotidien du médecin place ce remboursement en 1983.",
+    "Le 13 juillet 1983, la « loi Roudy » sur l'égalité professionnelle entre les femmes et les hommes interdit les discriminations au travail fondées sur le sexe. Yvette Roudy est morte le 18 août 2026."
+  ],
+  "actions": [
+    {
+      "date": "1971",
+      "theme": "corps",
+      "text": "Signe le Manifeste des 343."
+    },
+    {
+      "date": "1981-05-21",
+      "theme": "droits-civils",
+      "text": "Devient la première ministre déléguée aux Droits de la femme."
+    },
+    {
+      "date": "1982-12-31",
+      "theme": "corps",
+      "text": "Une loi prévoit le remboursement de l'IVG par la Sécurité sociale."
+    },
+    {
+      "date": "1983-07-13",
+      "theme": "travail",
+      "text": "La « loi Roudy » interdit les discriminations professionnelles fondées sur le sexe."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Yvette Roudy, ministre des Droits de la femme sous Mitterrand, est morte (LCP)",
+      "url": "https://lcp.fr/actualites/yvette-roudy-ministre-des-droits-de-la-femme-sous-mitterrand-est-morte-440481"
+    },
+    {
+      "title": "La législation française sur l'avortement (Universalis)",
+      "url": "https://www.universalis.fr/encyclopedie/avortement/3-la-legislation-francaise-sur-l-avortement/"
+    },
+    {
+      "title": "Femmes, entre droits définitifs et choix menacés (Le Quotidien du médecin)",
+      "url": "https://cancerologie.lequotidiendumedecin.fr/actus-medicales/sante-publique/femmes-entre-droits-definitifs-et-choix-menaces"
+    }
+  ]
+}
