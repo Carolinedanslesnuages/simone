@@ -1,0 +1,37 @@
+{
+  "name": "Hiratsuka Raichō",
+  "birth": "1886",
+  "death": "1971",
+  "country": "Japon",
+  "region": "asie",
+  "published": "2026-08-29",
+  "summary": "Elle a fondé Seitō, une revue féministe, puis milité pour le vote des femmes.",
+  "chronicle": [
+    "Hiratsuka Raichō naît le 10 février 1886 au Japon. En 1911, elle fonde un groupe, la Seitō-sha, et une revue féministe, Seitō.",
+    "Le premier numéro s'ouvre sur une phrase restée célèbre : « À l'origine, la femme était le soleil. »",
+    "En 1920, avec Ichikawa Fusae, elle cofonde la Shin Fujin Kyōkai, l'Association des femmes nouvelles. Le but : obtenir le droit de vote des femmes. Une source date cette fondation de 1919.",
+    "Elle meurt le 24 mai 1971."
+  ],
+  "actions": [
+    {
+      "date": "1911",
+      "theme": "ecrire",
+      "text": "Elle fonde la Seitō-sha et la revue féministe Seitō : « À l'origine, la femme était le soleil »."
+    },
+    {
+      "date": "1920",
+      "theme": "vote",
+      "text": "Avec Ichikawa Fusae, elle cofonde la Shin Fujin Kyōkai, l'Association des femmes nouvelles, pour le vote des femmes (1919 selon une source)."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hiratsuka Raicho (Bibliothèque nationale de la Diète, Portraits de personnalités japonaises)",
+      "url": "https://www.ndl.go.jp/portrait/e/datas/380.html"
+    },
+    {
+      "title": "Hiratsuka Raichō (1886–1971) (Encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/hiratsuka-raicho-1886-1971"
+    }
+  ]
+}
