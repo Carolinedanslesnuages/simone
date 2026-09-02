@@ -1,0 +1,41 @@
+{
+  "name": "Anna Maria Mozzoni",
+  "birth": "1837",
+  "death": "1920",
+  "country": "Italie",
+  "region": "europe",
+  "published": "2026-09-02",
+  "summary": "Elle a présenté au Parlement italien la première pétition pour le vote des femmes, en 1877.",
+  "chronicle": [
+    "En 1877, Anna Maria Mozzoni publie à Venise un texte intitulé Del voto politico delle donne, « Du vote politique des femmes ». La même année, elle présente au Parlement la première pétition pour le vote des femmes.",
+    "En 1878, le ministre Francesco De Sanctis la désigne pour représenter l'Italie au Congrès international du droit des femmes, à Paris.",
+    "Elle ne lâche pas. En 1906, elle présente une nouvelle pétition pour le droit de vote, au nom du Comitato pro suffragio femminile."
+  ],
+  "actions": [
+    {
+      "date": "1877",
+      "theme": "vote",
+      "text": "Publie Del voto politico delle donne et présente au Parlement la première pétition pour le vote des femmes."
+    },
+    {
+      "date": "1878",
+      "theme": "organiser",
+      "text": "Représente l'Italie au Congrès international du droit des femmes, à Paris."
+    },
+    {
+      "date": "1906",
+      "theme": "vote",
+      "text": "Nouvelle pétition au Parlement pour le vote des femmes, au nom du Comitato pro suffragio femminile."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mozzoni, Anna Maria (Encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/mozzoni-anna-maria"
+    },
+    {
+      "title": "From the pioneers, a long journey towards citizenship (Il Sole 24 Ore)",
+      "url": "https://en.ilsole24ore.com/art/from-the-pioneers-a-long-journey-towards-citizenship-AJCXI4VB"
+    }
+  ]
+}
