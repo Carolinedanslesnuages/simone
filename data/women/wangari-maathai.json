@@ -1,0 +1,47 @@
+{
+  "name": "Wangari Maathai",
+  "birth": "1940",
+  "death": "2011",
+  "country": "Kenya",
+  "region": "afrique",
+  "published": "2026-09-04",
+  "summary": "Avec le Green Belt Movement, elle a donné aux femmes rurales du Kenya un métier et une voix.",
+  "chronicle": [
+    "En 1971, Wangari Maathai devient la première femme d'Afrique de l'Est à obtenir un doctorat.",
+    "En 1977, elle fonde le Green Belt Movement. C'est un mouvement de femmes rurales qui plantent des arbres contre la déforestation. Les récits de sa naissance varient : sept arbres plantés dans un parc de Nairobi, ou une réunion du National Council of Women of Kenya.",
+    "Le mouvement forme 30 000 femmes à des métiers, comme l'apiculture ou la foresterie. Ces femmes gagnent un savoir-faire et leur autonomie.",
+    "En 2002, elle est élue au Parlement kenyan. En 2004, elle reçoit le prix Nobel de la paix. Elle est la première Africaine à l'obtenir."
+  ],
+  "actions": [
+    {
+      "date": "1971",
+      "theme": "education",
+      "text": "Elle devient la première femme d'Afrique de l'Est à obtenir un doctorat."
+    },
+    {
+      "date": "1977",
+      "theme": "organiser",
+      "text": "Elle fonde le Green Belt Movement, un mouvement de femmes rurales qui plantent des arbres. Il formera 30 000 femmes à des métiers."
+    },
+    {
+      "date": "2002",
+      "theme": "vote",
+      "text": "Elle est élue au Parlement kenyan."
+    },
+    {
+      "date": "2004",
+      "theme": "organiser",
+      "text": "Elle reçoit le prix Nobel de la paix, première Africaine à l'obtenir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wangari Maathai (LSE, Firoz Lalji Institute for Africa)",
+      "url": "https://www.lse.ac.uk/africa/hub-for-african-thought/thinkers/wangari-maathai"
+    },
+    {
+      "title": "Wangari Maathai, prix Nobel de la paix 2004 (Fondation Nobel)",
+      "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/"
+    }
+  ]
+}
