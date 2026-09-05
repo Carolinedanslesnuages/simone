@@ -1,0 +1,45 @@
+{
+  "name": "Lucina Hagman",
+  "birth": "1853",
+  "death": "1946",
+  "country": "Finlande",
+  "region": "europe",
+  "published": "2026-09-05",
+  "summary": "Une des 19 premières femmes députées au monde, élue en Finlande en 1907.",
+  "chronicle": [
+    "En 1906, la Finlande réforme son parlement. Une seule chambre remplace l'ancienne Diète. Surtout, les femmes peuvent voter et être élues. C'est une première en Europe.",
+    "En 1907, Lucina Hagman fait partie des 19 premières femmes députées au monde, sur 200 sièges. La plupart des sources disent qu'elle siège jusqu'en 1917 ; une autre dit 1914.",
+    "Elle s'organise aussi avec d'autres femmes. Elle est la première présidente d'Unioni, la Ligue des féministes finlandaises. En 1907, elle cofonde Suomalainen Naisliitto."
+  ],
+  "actions": [
+    {
+      "date": "1906",
+      "theme": "vote",
+      "text": "La réforme du parlement finlandais donne aux femmes le droit de voter et d'être élues, une première en Europe."
+    },
+    {
+      "date": "1907",
+      "theme": "vote",
+      "text": "Élue parmi les 19 premières femmes députées au monde."
+    },
+    {
+      "date": "1907",
+      "theme": "organiser",
+      "text": "Cofonde l'association Suomalainen Naisliitto."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Historical background, Women's suffrage 110 years (Eduskunta, Parlement finlandais)",
+      "url": "https://eduskunta.fi/EN/naineduskuntatoimii/kirjasto/aineistot/yhteiskunta/womens-suffrage-110-years/Pages/historical-background.aspx"
+    },
+    {
+      "title": "115 years of women being members of parliament in Finland (Library of Congress)",
+      "url": "https://blogs.loc.gov/law/2022/05/115-years-of-women-being-members-of-parliament-in-finland/"
+    },
+    {
+      "title": "Lucina Hagman (Université de Jyväskylä)",
+      "url": "https://www.jyu.fi/tdk/museo/naisoppilaat_en/lucinahagman_en.htm"
+    }
+  ]
+}
