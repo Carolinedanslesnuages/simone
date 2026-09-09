@@ -1,0 +1,45 @@
+{
+  "name": "Huda Shaarawi",
+  "birth": "1879",
+  "death": "1947",
+  "country": "Égypte",
+  "region": "moyen-orient",
+  "published": "2026-09-09",
+  "summary": "Elle a fondé l'Union féministe égyptienne pour réclamer le vote, l'instruction des filles et la réforme du droit de la famille.",
+  "chronicle": [
+    "Au printemps 1923, au Caire, Huda Shaarawi crée l'Union féministe égyptienne. Le programme est clair. Les femmes veulent voter. Elles veulent une réforme du statut personnel, c'est-à-dire des règles du mariage et de la famille. Et elles veulent que les filles aillent davantage à l'école.",
+    "Quelques semaines plus tard, en mai 1923, elle conduit la délégation égyptienne à Rome, au congrès de l'Alliance internationale pour le suffrage des femmes. Au retour, en gare du Caire, elle retire son voile devant tout le monde. Saiza Nabarawi le fait avec elle. Le geste est public, et il fait date.",
+    "Elle préside l'Union féministe égyptienne jusqu'à sa mort, en 1947. Entre-temps, son combat dépasse l'Égypte : en 1945, elle devient la présidente fondatrice de l'Union féministe arabe."
+  ],
+  "actions": [
+    {
+      "date": "1923-03",
+      "theme": "organiser",
+      "text": "Elle fonde l'Union féministe égyptienne, qui réclame le droit de vote, la réforme du statut personnel et l'instruction des filles."
+    },
+    {
+      "date": "1923-05",
+      "theme": "corps",
+      "text": "Elle mène la délégation égyptienne au congrès suffragiste international de Rome. À son retour, elle retire publiquement son voile en gare du Caire, avec Saiza Nabarawi."
+    },
+    {
+      "date": "1945",
+      "theme": "organiser",
+      "text": "Elle devient la présidente fondatrice de l'Union féministe arabe."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Egyptian Feminist Union (Encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/egyptian-feminist-union"
+    },
+    {
+      "title": "Huda Shaarawi (Emory University, Postcolonial Studies)",
+      "url": "https://scholarblogs.emory.edu/postcolonialstudies/?p=448"
+    },
+    {
+      "title": "Cours HEMED sur les femmes en Méditerranée (Université du Mans)",
+      "url": "https://hemed.univ-lemans.fr/cours2015/en/co/grain_02_5.html"
+    }
+  ]
+}
