@@ -1,0 +1,42 @@
+{
+  "name": "Charlotte Maxeke",
+  "birth": "1874",
+  "death": "1939",
+  "country": "Afrique du Sud",
+  "region": "afrique",
+  "published": "2026-09-10",
+  "summary": "Elle a fondé la première organisation de femmes d'Afrique du Sud et mené la lutte des femmes noires contre les laissez-passer.",
+  "chronicle": [
+    "En Afrique du Sud, au début du XXe siècle, les femmes noires doivent porter un laissez-passer pour circuler. On l'appelle le « pass ». Charlotte Maxeke, née Manye, refuse cette humiliation.",
+    "En 1913, elle mène un groupe de femmes qui brûlent leurs pass devant des bureaux municipaux. Beaucoup sont arrêtées, à Jagersfontein, à Winburg, à Bloemfontein. Mais en 1914, le gouvernement assouplit les lois sur les pass des femmes.",
+    "En 1918, elle fonde la Bantu Women's League. C'est la première organisation de femmes d'Afrique du Sud. Avec elle, Charlotte Maxeke conduit une délégation chez le Premier ministre, Louis Botha, contre les pass imposés aux femmes.",
+    "Le 7 janvier 1919, la Ligue mène une résistance passive contre ces lois. Charlotte Maxeke a ouvert la voie aux luttes des femmes contre les pass."
+  ],
+  "actions": [
+    {
+      "date": "1913",
+      "theme": "droits-civils",
+      "text": "Elle mène des femmes qui brûlent leurs laissez-passer devant des bureaux municipaux. En 1914, le gouvernement assouplit les lois sur les pass des femmes."
+    },
+    {
+      "date": "1918",
+      "theme": "organiser",
+      "text": "Elle fonde la Bantu Women's League, première organisation de femmes d'Afrique du Sud, et conduit une délégation chez le Premier ministre Louis Botha."
+    },
+    {
+      "date": "1919-01-07",
+      "theme": "organiser",
+      "text": "La Bantu Women's League mène une résistance passive contre l'application des lois sur les pass aux femmes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bantu Women's League (South African History Online)",
+      "url": "https://www.sahistory.org.za/topic/bantu-womens-league"
+    },
+    {
+      "title": "Bantu Women's League protests against pass laws (South African History Online)",
+      "url": "https://sahistory.org.za/dated-event/bantu-womens-league-protests-against-pass-laws"
+    }
+  ]
+}
