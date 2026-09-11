@@ -1,0 +1,46 @@
+{
+  "name": "Julie-Victoire Daubié",
+  "birth": "1824",
+  "death": "1874",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-09-11",
+  "summary": "Elle est la première femme bachelière en France.",
+  "chronicle": [
+    "En août 1861, à Lyon, Julie-Victoire Daubié obtient le baccalauréat ès lettres. Elle est la première femme bachelière en France. Les sources hésitent sur le jour : le 16 août pour Hérodote et RF Généalogie, le 17 pour d'autres.",
+    "Réussir l'examen ne suffit pas. L'administration refuse de lui délivrer son diplôme. Elle l'obtient finalement grâce à l'intervention de l'impératrice Eugénie.",
+    "Elle continue ses études. En 1871, elle devient la première femme licenciée ès lettres.",
+    "Elle meurt en 1874. Elle préparait alors une thèse sur la condition des femmes romaines."
+  ],
+  "actions": [
+    {
+      "date": "1861-08",
+      "theme": "education",
+      "text": "Devient à Lyon la première femme bachelière en France. Elle n'obtient son diplôme que grâce à l'impératrice Eugénie."
+    },
+    {
+      "date": "1871",
+      "theme": "education",
+      "text": "Devient la première femme licenciée ès lettres."
+    },
+    {
+      "date": "1874",
+      "theme": "ecrire",
+      "text": "Travaille à une thèse sur la condition des femmes romaines quand elle meurt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "16 août 1861, la première bachelière (Hérodote)",
+      "url": "https://www.herodote.net/16_aout_1861-evenement-18610816.php"
+    },
+    {
+      "title": "Daubié, Julie-Victoire, 1824-1874 (Fondation Napoléon)",
+      "url": "https://www.napoleon.org/histoire-des-2-empires/biographies/daubie-julie-victoire-1824-1874-femme-de-lettres-et-pionniere-des-droits-des-femmes-en-france/"
+    },
+    {
+      "title": "Julie-Victoire Daubié, pionnière du féminisme (INA Fresques)",
+      "url": "https://fresques.ina.fr/panorama-grand-est/fiche-media/GRDEST00235/julie-victoire-daubie-pionniere-du-feminisme.html"
+    }
+  ]
+}
