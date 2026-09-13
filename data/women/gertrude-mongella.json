@@ -1,0 +1,51 @@
+{
+  "name": "Gertrude Mongella",
+  "birth": "1945",
+  "death": "",
+  "country": "Tanzanie",
+  "region": "afrique",
+  "published": "2026-09-13",
+  "summary": "Secrétaire générale de la conférence de Pékin, elle a conduit le monde à adopter en 1995 un programme d'action pour les droits des femmes.",
+  "chronicle": [
+    "En 1982, Gertrude Mongella devient ministre d'État chargée des affaires des femmes, en Tanzanie.",
+    "En 1985, à Nairobi, l'ONU fait le bilan de la Décennie des Nations unies pour la femme. Gertrude Mongella est vice-présidente de la conférence. Elle dirige la délégation africaine.",
+    "En 1992, Boutros Boutros-Ghali la choisit pour diriger la quatrième Conférence mondiale sur les femmes. Elle se tient à Pékin du 4 au 15 septembre 1995.",
+    "À Pékin, 185 pays adoptent la Déclaration et le Programme d'action de Beijing. En Tanzanie, on la surnomme « Mama Beijing »."
+  ],
+  "actions": [
+    {
+      "date": "1982",
+      "theme": "organiser",
+      "text": "Elle devient ministre d'État chargée des affaires des femmes."
+    },
+    {
+      "date": "1985",
+      "theme": "organiser",
+      "text": "Elle est vice-présidente de la conférence de Nairobi sur la Décennie des Nations unies pour la femme et dirige la délégation africaine."
+    },
+    {
+      "date": "1992",
+      "theme": "organiser",
+      "text": "Boutros Boutros-Ghali la choisit pour diriger la quatrième Conférence mondiale sur les femmes."
+    },
+    {
+      "date": "1995-09-04",
+      "theme": "droits-civils",
+      "text": "Secrétaire générale de la conférence de Pékin, elle voit 185 pays adopter la Déclaration et le Programme d'action de Beijing."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Meet Tanzania's Gertrude Mongella, 75, who led the world historic Beijing conference (Afrique Renouveau, ONU)",
+      "url": "https://www.un.org/africarenewal/magazine/october-2020/meet-tanzanias-gertrude-mongella-75-who-led-world-historic-beijing-conference"
+    },
+    {
+      "title": "Mongella, Gertrude (1945–) (Encyclopedia.com)",
+      "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/mongella-gertrude-1945"
+    },
+    {
+      "title": "Gertrude Mongella, 80, reflects on the landmark Beijing conference (Afrique Renouveau, ONU)",
+      "url": "https://africarenewal.un.org/en/magazine/gertrude-mongella-80-reflects-landmark-beijing-conference-and-lessons-future"
+    }
+  ]
+}
