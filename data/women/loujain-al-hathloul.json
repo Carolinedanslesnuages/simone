@@ -1,0 +1,50 @@
+{
+  "name": "Loujain al-Hathloul",
+  "birth": "1989",
+  "death": "",
+  "country": "Arabie saoudite",
+  "region": "moyen-orient",
+  "published": "2026-09-24",
+  "summary": "Elle a défié l'interdiction de conduire faite aux Saoudiennes et l'a payé de près de trois ans de prison.",
+  "chronicle": [
+    "Fin 2014, Loujain al-Hathloul prend le volant aux Émirats et roule vers l'Arabie saoudite. Elle filme le trajet en direct. À l'époque, les Saoudiennes n'ont pas le droit de conduire. Elle est arrêtée et détenue environ 70 jours. Amnesty évoque même un premier défi dès 2013.",
+    "Elle lutte aussi contre la tutelle masculine, qui place les femmes sous l'autorité d'un homme de la famille. En mai 2018, elle est arrêtée avec d'autres militantes. Quelques semaines plus tard, le 24 juin 2018, l'interdiction de conduire est levée. Elle, pourtant, reste en prison.",
+    "Le 28 décembre 2020, un tribunal la condamne à 5 ans et 8 mois de prison, au nom de la loi antiterroriste. Le 10 février 2021, elle est libérée sous condition. Elle n'a pas le droit de quitter le pays."
+  ],
+  "actions": [
+    {
+      "date": "2014",
+      "theme": "droits-civils",
+      "text": "Elle tente d'entrer en voiture en Arabie saoudite depuis les Émirats, en filmant en direct. Elle est détenue environ 70 jours."
+    },
+    {
+      "date": "2018-05",
+      "theme": "droits-civils",
+      "text": "Elle est arrêtée avec d'autres militantes, quelques semaines avant la levée de l'interdiction de conduire."
+    },
+    {
+      "date": "2020-12-28",
+      "theme": "violences",
+      "text": "Elle est condamnée à 5 ans et 8 mois de prison au titre de la loi antiterroriste."
+    },
+    {
+      "date": "2021-02-10",
+      "theme": "droits-civils",
+      "text": "Elle est libérée sous condition, avec une interdiction de voyager."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Saudi Arabia: prominent women's rights activist released (Human Rights Watch)",
+      "url": "https://www.hrw.org/news/2021/02/10/saudi-arabia-prominent-womens-rights-activist-released"
+    },
+    {
+      "title": "Saudi Arabia: release of Loujain al-Hathloul an incredible relief (Amnesty International UK)",
+      "url": "https://www.amnesty.org.uk/press-releases/saudi-arabia-release-loujain-al-hathloul-incredible-relief"
+    },
+    {
+      "title": "Loujain al-Hathloul, Saudi activist jailed for driving, has been released (NPR)",
+      "url": "https://www.npr.org/2021/02/10/966258281/loujain-al-hathloul-saudi-activist-jailed-for-driving-has-been-released"
+    }
+  ]
+}
