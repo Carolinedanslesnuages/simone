@@ -1,0 +1,45 @@
+{
+  "name": "Louise Weiss",
+  "birth": "1893",
+  "death": "1983",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-09-25",
+  "summary": "Elle a fondé « La Femme nouvelle » et multiplié les candidatures symboliques pour le vote des femmes.",
+  "chronicle": [
+    "En 1934, Louise Weiss fonde « La Femme nouvelle ». La Jewish Women's Archive précise le mois : octobre. Cette association s'occupe d'une seule cause, le droit de vote des femmes. Elle s'inspire des suffragettes britanniques et américaines.",
+    "En 1935 et 1936, elle se porte candidate, d'abord aux municipales, puis aux législatives de 1936 à Paris. Ce sont des candidatures symboliques. Elle fait circuler son CV sur des cartes postales.",
+    "Elle fait aussi une tournée dans toute la France pour le vote des femmes. Les sources ne disent pas la même chose sur la fin de son action : 1937 selon Verfassungsblog, 1938 selon Encyclopedia.com."
+  ],
+  "actions": [
+    {
+      "date": "1934-10",
+      "theme": "organiser",
+      "text": "Fonde « La Femme nouvelle », une association consacrée au droit de vote des femmes."
+    },
+    {
+      "date": "1935",
+      "theme": "vote",
+      "text": "Se porte candidate de façon symbolique aux municipales."
+    },
+    {
+      "date": "1936",
+      "theme": "vote",
+      "text": "Se porte candidate de façon symbolique aux législatives à Paris et fait une tournée nationale pour le vote des femmes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Louise Weiss, féministe (Europeana)",
+      "url": "https://www.europeana.eu/exhibitions/louise-weiss-a-committed-european/feminist"
+    },
+    {
+      "title": "Weiss, Louise (Jewish Women's Archive)",
+      "url": "https://jwa.org/encyclopedia/article/weiss-louise"
+    },
+    {
+      "title": "Louise Weiss (Verfassungsblog)",
+      "url": "https://verfassungsblog.de/louise-weiss/"
+    }
+  ]
+}
