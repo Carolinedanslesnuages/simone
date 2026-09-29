@@ -1,0 +1,46 @@
+{
+  "name": "Alice Paul",
+  "birth": "1885",
+  "death": "1977",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "published": "2026-09-29",
+  "summary": "Elle a manifesté devant la Maison-Blanche pour le vote des femmes, puis proposé l'amendement pour l'égalité des droits.",
+  "chronicle": [
+    "Janvier 1917, à Washington. Des femmes se postent devant la Maison-Blanche, en silence, avec des banderoles. Ce sont les « Silent Sentinels ». Alice Paul les mène avec le National Woman's Party.",
+    "C'est une première : on n'avait jamais manifesté ainsi devant la Maison-Blanche. Les piquets durent dix-huit mois. Combien de femmes y ont participé ? Mille selon un musée, deux mille selon une université.",
+    "Le 20 juillet 1923, Alice Paul est à Seneca Falls, là où tout avait commencé en 1848. Elle y présente l'Equal Rights Amendment, l'amendement pour l'égalité des droits. Elle l'appelle « Lucretia Mott Amendment ». Une source parle d'une première rédaction dès 1921, avec Crystal Eastman.",
+    "En 1972, le Congrès adopte enfin cet amendement. Mais il n'est jamais ratifié."
+  ],
+  "actions": [
+    {
+      "date": "1917-01",
+      "theme": "vote",
+      "text": "Avec le National Woman's Party, elle lance les « Silent Sentinels », dix-huit mois de piquets devant la Maison-Blanche."
+    },
+    {
+      "date": "1923-07-20",
+      "theme": "droits-civils",
+      "text": "À Seneca Falls, elle présente l'Equal Rights Amendment, ou « Lucretia Mott Amendment »."
+    },
+    {
+      "date": "1972",
+      "theme": "droits-civils",
+      "text": "Le Congrès adopte l'Equal Rights Amendment, qui ne sera jamais ratifié."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Alice Paul (National Women's History Museum)",
+      "url": "https://www.womenshistory.org/education-resources/biographies/alice-paul"
+    },
+    {
+      "title": "Alice Paul (National Park Service)",
+      "url": "https://www.nps.gov/people/alice-paul.htm"
+    },
+    {
+      "title": "Alice Paul collections (Schlesinger Library, Harvard)",
+      "url": "https://www.radcliffe.harvard.edu/schlesinger-library/collections/alice-paul"
+    }
+  ]
+}
