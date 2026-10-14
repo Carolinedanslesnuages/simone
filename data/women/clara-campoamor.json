@@ -1,0 +1,45 @@
+{
+  "name": "Clara Campoamor",
+  "birth": "1888",
+  "death": "1972",
+  "country": "Espagne",
+  "region": "europe",
+  "published": "2026-10-14",
+  "summary": "La députée qui a fait inscrire le vote des femmes dans la Constitution espagnole de 1931.",
+  "chronicle": [
+    "En 1931, l'Espagne devient une république. Les femmes peuvent être élues, mais pas encore voter. Clara Campoamor est élue aux Cortes constituantes, l'assemblée chargée d'écrire la Constitution.",
+    "Le 1er octobre 1931, on débat de l'article 36 : le vote des femmes. Une autre députée, Victoria Kent, veut repousser la décision. Clara Campoamor prend la parole et convainc. L'article est adopté par 161 voix, contre 121 ou 131 selon les sources.",
+    "En 1933, les Espagnoles votent pour la première fois à des élections générales. Le jour exact varie selon les sources."
+  ],
+  "actions": [
+    {
+      "date": "1931",
+      "theme": "vote",
+      "text": "Élue aux Cortes constituantes, alors que les femmes ne peuvent pas encore voter."
+    },
+    {
+      "date": "1931-10-01",
+      "theme": "vote",
+      "text": "Son discours fait adopter l'article 36 de la Constitution, qui donne le vote aux femmes."
+    },
+    {
+      "date": "1933",
+      "theme": "vote",
+      "text": "Les Espagnoles votent pour la première fois à des élections générales."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Por qué Clara Campoamor fue tan importante (Amnesty International Espagne)",
+      "url": "https://www.es.amnesty.org/en-que-estamos/blog/historia/articulo/por-que-clara-campoamor-fue-tan-importante"
+    },
+    {
+      "title": "Sufragio femenino en España (Ministère espagnol de l'Éducation)",
+      "url": "https://www.educacionfpydeportes.gob.es/dam/jcr:afd3d9f0-e0b9-4784-bc85-194cb389fd86/rec-sufragio-femenino-en-espan-a--1-.pdf"
+    },
+    {
+      "title": "Clara Campoamor, Dones juristes pioneres (Universitat Autònoma de Barcelona)",
+      "url": "https://ddd.uab.cat/pub/pagweb/donesjuristespioneres/claracampoamor.2.html"
+    }
+  ]
+}
