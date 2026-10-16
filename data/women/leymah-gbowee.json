@@ -1,0 +1,52 @@
+{
+  "name": "Leymah Gbowee",
+  "birth": "1972",
+  "death": "",
+  "country": "Liberia",
+  "region": "afrique",
+  "published": "2026-10-16",
+  "summary": "Elle a uni chrétiennes et musulmanes du Liberia pour imposer la paix et faire entendre la voix des femmes aux élections.",
+  "chronicle": [
+    "Le Liberia est en guerre. En 2002, Leymah Gbowee organise un mouvement de terrain : Women of Liberia Mass Action for Peace. Il réunit des chrétiennes et des musulmanes.",
+    "En 2003, les femmes font des sit-in. Elles jeûnent, elles prient. Elles obligent Charles Taylor à les recevoir et à se rendre aux pourparlers de paix d'Accra. Un accord de paix est signé.",
+    "En 2005, elle mobilise les Libériennes pour l'élection présidentielle. Ellen Johnson Sirleaf l'emporte.",
+    "Le 7 octobre 2011, le prix Nobel de la paix lui est attribué, avec Ellen Johnson Sirleaf et Tawakkol Karman. En 2012, elle crée à Monrovia une fondation qui aide les femmes et les filles à se former."
+  ],
+  "actions": [
+    {
+      "date": "2002",
+      "theme": "organiser",
+      "text": "Elle organise Women of Liberia Mass Action for Peace, qui réunit chrétiennes et musulmanes."
+    },
+    {
+      "date": "2003",
+      "theme": "violences",
+      "text": "Par des sit-in, des jeûnes et des prières, les femmes obligent Charles Taylor à participer aux pourparlers de paix d'Accra."
+    },
+    {
+      "date": "2005",
+      "theme": "vote",
+      "text": "Elle mobilise les Libériennes pour l'élection présidentielle."
+    },
+    {
+      "date": "2011-10-07",
+      "theme": "vote",
+      "text": "Le prix Nobel de la paix lui est attribué, notamment pour avoir « assuré la participation des femmes aux élections »."
+    },
+    {
+      "date": "2012",
+      "theme": "education",
+      "text": "Elle crée à Monrovia la Gbowee Peace Foundation Africa, qui aide les femmes et les filles à se former."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Leymah Gbowee, prix Nobel de la paix 2011 (Fondation Nobel)",
+      "url": "https://www.nobelprize.org/prizes/peace/2011/gbowee/facts/"
+    },
+    {
+      "title": "Leymah Gbowee (Encyclopaedia Britannica)",
+      "url": "https://www.britannica.com/biography/Leymah-Gbowee"
+    }
+  ]
+}
