@@ -1,0 +1,40 @@
+{
+  "name": "Fredrika Bremer",
+  "birth": "1801",
+  "death": "1865",
+  "country": "Suède",
+  "region": "europe",
+  "published": "2026-10-26",
+  "summary": "Son roman Hertha a lancé la réforme qui a libéré les Suédoises célibataires de la tutelle.",
+  "chronicle": [
+    "En Suède, une loi de 1734 traite les femmes célibataires comme des mineures. Elles restent sous l'autorité de leur plus proche parent masculin jusqu'à leur mariage.",
+    "En 1856, Fredrika Bremer publie un roman, Hertha. Il dénonce cette tutelle sans fin. Le livre fait parler de lui.",
+    "En 1858, ce « débat Hertha » arrive au Riksdag, le parlement suédois. Une loi permet alors aux célibataires de plus de 25 ans de demander leur majorité au tribunal. La majorité automatique vient plus tard ; les sources ne sont pas d'accord sur la date."
+  ],
+  "actions": [
+    {
+      "date": "1856",
+      "theme": "ecrire",
+      "text": "Publie le roman Hertha, qui dénonce la tutelle perpétuelle des femmes célibataires."
+    },
+    {
+      "date": "1858",
+      "theme": "droits-civils",
+      "text": "Le « débat Hertha » mène à une loi : les célibataires de plus de 25 ans peuvent demander leur majorité au tribunal."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fredrika Bremer (Svenskt kvinnobiografiskt lexikon)",
+      "url": "https://skbl.se/en/article/FredrikaBremer"
+    },
+    {
+      "title": "Fredrika Bremer (Britannica)",
+      "url": "https://www.britannica.com/biography/Fredrika-Bremer"
+    },
+    {
+      "title": "Fredrika Bremer (Fredrika Bremer Association)",
+      "url": "https://www.fredrikabremer.net/en/fredrika-bremer"
+    }
+  ]
+}
