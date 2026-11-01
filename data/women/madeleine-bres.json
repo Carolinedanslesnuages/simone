@@ -1,0 +1,40 @@
+{
+  "name": "Madeleine Brès",
+  "birth": "1842 ou 1839",
+  "death": "1921 ou 1925",
+  "country": "France",
+  "region": "europe",
+  "published": "2026-11-01",
+  "summary": "Elle est la première Française docteure en médecine.",
+  "chronicle": [
+    "En 1868, Madeleine Brès est admise à la faculté de médecine de Paris. Mais elle ne peut pas passer les concours de l'externat et de l'internat : ils sont réservés aux hommes.",
+    "Elle poursuit quand même. Le 3 juin 1875, elle soutient sa thèse, « De la mamelle et de l'allaitement ». Elle devient la première Française docteure en médecine.",
+    "Sa vie garde une part d'incertitude. La plupart des sources la font naître le 26 novembre 1842 à Bouillargues et mourir en 1921. Certaines sources universitaires donnent 1839 et 1925."
+  ],
+  "actions": [
+    {
+      "date": "1868",
+      "theme": "education",
+      "text": "Est admise à la faculté de médecine de Paris, mais exclue des concours réservés aux hommes."
+    },
+    {
+      "date": "1875-06-03",
+      "theme": "education",
+      "text": "Soutient sa thèse et devient la première Française docteure en médecine."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Madeleine Brès (Ville de Paris)",
+      "url": "https://www.paris.fr/pages/madeleine-bres-31674"
+    },
+    {
+      "title": "Google rend hommage à la première femme docteur en médecine (Le Quotidien du médecin)",
+      "url": "https://www.lequotidiendumedecin.fr/internes/etudes-medicales/google-rend-hommage-la-premiere-femme-docteur-en-medecine"
+    },
+    {
+      "title": "A History of Women's Entrance Into Medicine (BIU Santé, Université Paris Cité)",
+      "url": "https://www.biusante.parisdescartes.fr/histoire/medica/presentations/entree-femmes-en-medecine-en.php"
+    }
+  ]
+}
