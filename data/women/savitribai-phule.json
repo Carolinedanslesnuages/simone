@@ -1,0 +1,41 @@
+{
+  "name": "Savitribai Phule",
+  "birth": "1831",
+  "death": "1897",
+  "country": "Inde",
+  "region": "asie",
+  "published": "2026-11-05",
+  "summary": "Elle a ouvert avec son mari une école de filles à Pune, en 1848, et y a enseigné.",
+  "chronicle": [
+    "Savitribai Phule naît le 3 janvier 1831 en Inde. Avec son mari, Jyotirao Phule, elle se bat pour que les filles apprennent à lire.",
+    "En 1848, le couple ouvre une école de filles à Bhide Wada, dans le quartier de Budhwar Peth, à Pune. Les sources indiennes la présentent souvent comme la première école de filles du pays. On peut dire, plus prudemment, qu'elle est l'une des premières fondées par des Indiens. Les sources ne s'accordent pas sur le mois : janvier ou août.",
+    "Savitribai n'est pas seulement fondatrice. Elle enseigne elle-même dans cette école, puis elle la dirige. Le couple ouvre ensuite plus de dix-huit écoles à Pune.",
+    "Elle meurt le 10 mars 1897, de la peste. Elle l'a attrapée en soignant des malades."
+  ],
+  "actions": [
+    {
+      "date": "1848",
+      "theme": "education",
+      "text": "Avec Jyotirao Phule, elle fonde une école de filles à Bhide Wada, à Pune."
+    },
+    {
+      "date": "1848",
+      "theme": "travail",
+      "text": "Elle devient institutrice de cette école, puis sa directrice."
+    }
+  ],
+  "sources": [
+    {
+      "title": "This day in history: India's first girls' school established at Pune's Bhide Wada (Free Press Journal)",
+      "url": "https://freepressjournal.in/pune/this-day-in-history-indias-first-girls-school-established-at-punes-bhide-wada-175-years-ago-today"
+    },
+    {
+      "title": "Savitribai, the woman who started girls' school 171 years ago (Business Standard, PTI)",
+      "url": "https://www.business-standard.com/article/pti-stories/savitribai-the-woman-who-started-girls-school-171-years-ago-120010300942_1.html"
+    },
+    {
+      "title": "Phule, Savitribai (1831–1897) (Encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/phule-savitribai-1831-1897"
+    }
+  ]
+}
