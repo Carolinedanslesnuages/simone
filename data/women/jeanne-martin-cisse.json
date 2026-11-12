@@ -1,0 +1,46 @@
+{
+  "name": "Jeanne Martin Cissé",
+  "birth": "1926",
+  "death": "2017",
+  "country": "Guinée",
+  "region": "afrique",
+  "published": "2026-11-12",
+  "summary": "Elle a dirigé pendant dix ans l'organisation qui unissait les femmes d'Afrique, puis ouvert aux femmes les plus hauts postes de l'ONU.",
+  "chronicle": [
+    "De 1962 à 1972, Jeanne Martin Cissé est secrétaire générale de la Conférence des femmes africaines. Cette conférence devient l'Organisation panafricaine des femmes. Pendant dix ans, elle travaille à unir les femmes du continent.",
+    "En 1972, la Guinée la nomme représentante permanente à l'ONU. Jamais aucun pays n'avait confié ce poste à une femme.",
+    "En novembre 1972, elle préside le Conseil de sécurité. Elle est la première femme à le faire. Le procès-verbal du 21 novembre 1972 l'écrit noir sur blanc : « Président : Mme Jeanne Martin CISSÉ (Guinée) ».",
+    "Ce n'est pas une loi nouvelle. Mais c'est une porte ouverte : les femmes ont leur place là où se décident la guerre et la paix."
+  ],
+  "actions": [
+    {
+      "date": "1962",
+      "theme": "organiser",
+      "text": "Elle devient secrétaire générale de la Conférence des femmes africaines, devenue l'Organisation panafricaine des femmes, jusqu'en 1972."
+    },
+    {
+      "date": "1972",
+      "theme": "travail",
+      "text": "Elle est la première femme nommée représentante permanente d'un pays à l'ONU."
+    },
+    {
+      "date": "1972-11-21",
+      "theme": "travail",
+      "text": "Elle préside le Conseil de sécurité de l'ONU, première femme à ce poste."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cissé, Jeanne Martin (1926–) (Encyclopedia.com)",
+      "url": "https://encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/cisse-jeanne-martin-1926"
+    },
+    {
+      "title": "Procès-verbal de la 1675e séance du Conseil de sécurité, S/PV.1675 (Nations unies)",
+      "url": "https://digitallibrary.un.org/record/586285/files/S_PV-1675-FR.pdf"
+    },
+    {
+      "title": "Jeanne Martin Cissé (Women in Peace)",
+      "url": "https://womeninpeace.org/c-names/2017/6/14/jeanne-martin-cisse"
+    }
+  ]
+}
