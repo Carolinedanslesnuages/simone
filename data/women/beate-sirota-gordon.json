@@ -1,0 +1,41 @@
+{
+  "name": "Beate Sirota Gordon",
+  "birth": "1923",
+  "death": "2012",
+  "country": "États-Unis",
+  "region": "asie",
+  "published": "2026-11-16",
+  "summary": "À 22 ans, elle a écrit l'égalité des femmes et des hommes dans la Constitution du Japon.",
+  "chronicle": [
+    "Beate Sirota Gordon n'est pas japonaise. C'est une Américaine, née à Vienne le 25 octobre 1923. Si elle figure parmi les femmes d'Asie, c'est pour ce qu'elle a fait au Japon.",
+    "Février 1946. Le Japon a perdu la guerre et il est occupé. Une petite équipe de l'occupation américaine rédige une nouvelle Constitution. Beate a 22 ans. Elle est la seule femme de l'équipe.",
+    "Elle écrit les clauses sur les droits humains, dont ce qui deviendra l'article 24 : l'égalité des sexes dans le mariage et dans la famille. Milton Esman, un autre membre de l'équipe, a confirmé son rôle. Mais une grande partie de son texte a été coupée.",
+    "Elle meurt à New York le 30 décembre 2012."
+  ],
+  "actions": [
+    {
+      "date": "1946-02",
+      "theme": "droits-civils",
+      "text": "Seule femme de l'équipe de rédaction, elle écrit les clauses sur les droits humains de la future Constitution japonaise."
+    },
+    {
+      "date": "1946-02",
+      "theme": "droits-civils",
+      "text": "Elle rédige ce qui deviendra l'article 24 : l'égalité des sexes dans le mariage et dans la famille."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The only woman in the room: Beate Sirota Gordon, 1923-2012 (Dissent Magazine)",
+      "url": "https://dissentmagazine.org/online_articles/the-only-woman-in-the-room-beate-sirota-gordon-1923-2012/"
+    },
+    {
+      "title": "Beate Gordon, a drafter of Japan's Constitution, dies at 89 (The Japan Times)",
+      "url": "https://www.japantimes.co.jp/news/2013/01/02/national/history/beate-gordon-a-drafter-of-japans-constitution-dies-at-89/"
+    },
+    {
+      "title": "Beate Sirota Gordon (The Asia-Pacific Journal: Japan Focus)",
+      "url": "https://apjjf.org/?p=11524"
+    }
+  ]
+}
