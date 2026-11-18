@@ -1,0 +1,45 @@
+{
+  "name": "Josephine Butler",
+  "birth": "1828",
+  "death": "1906",
+  "country": "Royaume-Uni",
+  "region": "europe",
+  "published": "2026-11-18",
+  "summary": "Elle a obtenu la fin des lois qui imposaient des examens forcés aux femmes soupçonnées de prostitution.",
+  "chronicle": [
+    "Dans les ports et les villes de garnison anglaises, des lois votées à partir de 1864 permettent d'imposer des examens gynécologiques forcés aux femmes soupçonnées de prostitution. On les appelle les Contagious Diseases Acts.",
+    "En 1869, Josephine Butler devient secrétaire d'une association de femmes qui veut leur abrogation, puis sa présidente. En 1871, une pétition réunit environ 300 000 signatures de femmes. Ce chiffre est repris partout, mais personne ne l'a vérifié de façon indépendante.",
+    "Sa campagne aboutit en 1886 : les Contagious Diseases Acts sont abrogés."
+  ],
+  "actions": [
+    {
+      "date": "1869",
+      "theme": "organiser",
+      "text": "Devient secrétaire, puis présidente, de la Ladies' National Association for the Repeal of the Contagious Diseases Acts."
+    },
+    {
+      "date": "1871",
+      "theme": "organiser",
+      "text": "Une pétition réunit environ 300 000 signatures de femmes contre ces lois."
+    },
+    {
+      "date": "1886",
+      "theme": "corps",
+      "text": "Abrogation des Contagious Diseases Acts, aboutissement de sa campagne."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Butler, Josephine (1828–1906) (Encyclopedia.com)",
+      "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/butler-josephine-1828-1906"
+    },
+    {
+      "title": "Contagious Diseases Act (Spartacus Educational)",
+      "url": "https://spartacus-educational.com/Wcontagious.htm"
+    },
+    {
+      "title": "Josephine Butler, Blue Plaque (English Heritage)",
+      "url": "https://www.english-heritage.org.uk/visit/blue-plaques/butler-josephine-butler/"
+    }
+  ]
+}
