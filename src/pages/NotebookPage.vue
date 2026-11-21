@@ -1,13 +1,16 @@
 <script setup>
 import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue';
-import { pages, regionLabel, themeLabel } from '../data.js';
-import { formatDate, formatSchoolDate, lifespan } from '../format.js';
+import { pages, regionLabel } from '../data.js';
+import { formatSchoolDate, lifespan, splitChronicle } from '../format.js';
 
 const props = defineProps({ index: { type: Number, required: true } });
 
 const woman = computed(() => pages[props.index]);
 const previousWoman = computed(() => pages[props.index - 1]);
 const nextWoman = computed(() => pages[props.index + 1]);
+
+/** The chronicle flows over the two pages: the left one starts with the name. */
+const halves = computed(() => splitChronicle(woman.value.chronicle));
 
 // The page turns forward or backward, depending on where the reader goes.
 const turnDirection = ref('turn-forward');
@@ -35,23 +38,14 @@ onBeforeUnmount(() => window.removeEventListener('keydown', turnWithArrows));
   <div class="book">
     <Transition :name="turnDirection" mode="out-in">
       <article :key="woman.slug" class="spread">
-        <section class="sheet sheet-left" aria-label="Page de gauche : qui elle est">
+        <section class="sheet sheet-left" aria-label="Page de gauche">
           <p class="school-date"><time :datetime="woman.published">{{ formatSchoolDate(woman.published) }}</time></p>
           <h1 class="page-title" tabindex="-1">{{ woman.name }}</h1>
           <p class="identity">{{ lifespan(woman) }} · {{ woman.country }} · {{ regionLabel(woman.region) }}</p>
-          <p class="summary">{{ woman.summary }}</p>
-          <h2>Ce qu'elle a fait</h2>
-          <ol class="actions">
-            <li v-for="action in woman.actions" :key="action.date + action.text">
-              <time class="action-date" :datetime="action.date">{{ formatDate(action.date) }}</time>
-              <span class="action-theme">{{ themeLabel(action.theme) }}</span>
-              <span class="action-text">{{ action.text }}</span>
-            </li>
-          </ol>
+          <p v-for="paragraph in halves.left" :key="paragraph.slice(0, 30)">{{ paragraph }}</p>
         </section>
-        <section class="sheet sheet-right" aria-label="Page de droite : la chronique">
-          <h2>La chronique</h2>
-          <p v-for="paragraph in woman.chronicle" :key="paragraph.slice(0, 30)">{{ paragraph }}</p>
+        <section class="sheet sheet-right" aria-label="Page de droite">
+          <p v-for="paragraph in halves.right" :key="paragraph.slice(0, 30)">{{ paragraph }}</p>
           <h2>Sources</h2>
           <ul class="sources">
             <li v-for="source in woman.sources" :key="source.title">

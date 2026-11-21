@@ -105,13 +105,7 @@ p, ul, ol { margin: 0 0 var(--line); }
 
 .school-date { font-family: var(--hand); font-size: 1.6rem; color: var(--ink); text-align: right; margin: 0 0 var(--line); }
 .identity { color: var(--muted); font-style: italic; }
-.summary { font-weight: 700; }
 
-.actions { list-style: none; padding: 0; }
-.actions li { margin-bottom: calc(var(--line) / 2); }
-.action-date { display: block; font-weight: 700; color: var(--ink); }
-.action-theme { display: block; color: var(--muted); font-style: italic; font-size: 1rem; }
-.action-text { display: block; }
 .sources { padding-left: 1.25rem; font-size: 1rem; }
 
 .page-turn {

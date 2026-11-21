@@ -68,3 +68,22 @@ export function publishedChronicles(women, today) {
     .filter((woman) => woman.published <= today)
     .sort((first, second) => first.published.localeCompare(second.published) || first.name.localeCompare(second.name, 'fr'));
 }
+
+/** Room taken by the date, the name and the identity line (left), and by the sources (right). */
+const HEADER_WEIGHT = 300;
+const SOURCES_WEIGHT = 250;
+
+/**
+ * Splits the chronicle paragraphs over the two pages of a spread, so that both pages hold
+ * about the same amount of text. The left page also holds the header; the right one, the sources.
+ */
+export function splitChronicle(paragraphs) {
+  const total = HEADER_WEIGHT + SOURCES_WEIGHT + paragraphs.reduce((sum, paragraph) => sum + paragraph.length, 0);
+  let leftWeight = HEADER_WEIGHT;
+  let splitIndex = 0;
+  while (splitIndex < paragraphs.length - 1 && leftWeight + paragraphs[splitIndex].length / 2 <= total / 2) {
+    leftWeight += paragraphs[splitIndex].length;
+    splitIndex += 1;
+  }
+  return { left: paragraphs.slice(0, Math.max(splitIndex, 1)), right: paragraphs.slice(Math.max(splitIndex, 1)) };
+}

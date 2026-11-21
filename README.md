@@ -9,8 +9,8 @@ qui fait voter en 1975 la loi sur l'interruption volontaire de grossesse.
 
 ## Le carnet
 
-- **Une femme par double page** : à gauche, qui elle est et ce qu'elle a fait, date par date ; à
-  droite, sa chronique et ses sources. Sur un petit écran, les deux pages se suivent.
+- **Une femme par double page** : sa chronique commence sous son nom, à gauche, et continue à
+  droite, avec ses sources. Sur un petit écran, les deux pages se suivent.
 - **L'accueil** : simplement « Simone », et un lien pour ouvrir le carnet.
 - **On tourne les pages** avec les liens ou les flèches du clavier. L'animation disparaît si le
   système demande de réduire les mouvements.
@@ -56,7 +56,9 @@ Une chronique = un fichier `data/women/<identifiant>.json` (minuscules, sans acc
   futur reste cachée jusqu'à ce jour-là (le site est reconstruit chaque nuit).
 - `death` : vide (`""`) si elle est vivante.
 - `region` : [data/regions.json](data/regions.json) ; `theme` : [data/themes.json](data/themes.json).
-- `date` des actions : `AAAA`, `AAAA-MM` ou `AAAA-MM-JJ`, dans l'ordre chronologique.
+- `actions` : ses actions datées (`AAAA`, `AAAA-MM` ou `AAAA-MM-JJ`, dans l'ordre
+  chronologique). Elles ne s'affichent pas : elles servent à vérifier la chronique et à
+  rechercher.
 - Une source sans lien cite au moins son auteur.
 
 `npm test` vérifie toutes les chroniques.
