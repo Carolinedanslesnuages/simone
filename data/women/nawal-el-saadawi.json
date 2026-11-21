@@ -1,0 +1,51 @@
+{
+  "name": "Nawal El Saadawi",
+  "birth": "1931",
+  "death": "2021",
+  "country": "Égypte",
+  "region": "moyen-orient",
+  "published": "2026-11-21",
+  "summary": "Médecin et écrivaine, elle a osé dénoncer l'excision et l'a payé de son poste et de sa liberté.",
+  "chronicle": [
+    "Nawal El Saadawi est médecin. En 1972, elle publie La Femme et le sexe. Le livre parle du corps des femmes et dénonce notamment l'excision. C'est un scandale.",
+    "Elle le paie cher. Sous la pression, le ministère de la Santé la renvoie. Elle perd aussi la rédaction d'une revue de santé et son poste à l'Association médicale égyptienne. Les sources hésitent sur la date du renvoi : août 1971 ou 1972.",
+    "Elle continue d'écrire. En 1977 paraît La Face cachée d'Ève. En 1979 et 1980, elle conseille l'ONU pour le programme des femmes en Afrique du Nord et au Moyen-Orient.",
+    "Sous Sadate, elle est jetée en prison. Elle en sort en 1982 et raconte cette épreuve dans Mémoires de la prison des femmes, en 1983. Elle meurt au Caire le 21 mars 2021."
+  ],
+  "actions": [
+    {
+      "date": "1972",
+      "theme": "corps",
+      "text": "Elle publie La Femme et le sexe, qui dénonce notamment l'excision. Elle perd ensuite son poste au ministère de la Santé."
+    },
+    {
+      "date": "1977",
+      "theme": "ecrire",
+      "text": "Elle publie La Face cachée d'Ève."
+    },
+    {
+      "date": "1979",
+      "theme": "organiser",
+      "text": "Elle devient conseillère de l'ONU pour le programme des femmes en Afrique du Nord et au Moyen-Orient, jusqu'en 1980."
+    },
+    {
+      "date": "1983",
+      "theme": "ecrire",
+      "text": "Libérée en 1982 après son emprisonnement sous Sadate, elle publie Mémoires de la prison des femmes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nawal El Saadawi, Egypt's grand novelist, physician and global activist (The Conversation)",
+      "url": "https://theconversation.com/nawal-el-saadawi-egypts-grand-novelist-physician-and-global-activist-157817"
+    },
+    {
+      "title": "Nawal El Saadawi, fearless feminist without borders (Wilson Center)",
+      "url": "https://wilsoncenter.org/blog-post/nawal-el-saadawi-fearless-feminist-without-borders"
+    },
+    {
+      "title": "El Saadawi, Nawal (1931–) (Encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/el-saadawi-nawal-1931"
+    }
+  ]
+}
