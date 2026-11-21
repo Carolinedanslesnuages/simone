@@ -9,8 +9,6 @@
   --thin-line: rgba(111, 143, 214, 0.28);
   --thick-line: rgba(111, 143, 214, 0.6);
   --vertical-line: rgba(160, 120, 200, 0.18);
-  --cover: #2f6f8f;
-  --label: #fffdf2;
   --focus: #1f2a5c;
   --hand: 'Caveat', 'Segoe Print', 'Bradley Hand', cursive;
   --text-font: 'Atkinson Hyperlegible', 'Helvetica Neue', Arial, sans-serif;
@@ -29,8 +27,6 @@
     --thin-line: rgba(150, 175, 240, 0.14);
     --thick-line: rgba(150, 175, 240, 0.32);
     --vertical-line: rgba(190, 160, 230, 0.1);
-    --cover: #1d4a60;
-    --label: #2b2d38;
     --focus: #ffffff;
     color-scheme: dark;
   }
@@ -142,40 +138,9 @@ p, ul, ol { margin: 0 0 var(--line); }
   .turn-backward-enter-active, .turn-backward-leave-active { transition: none; }
 }
 
-/* The cover: blue cardboard with a white label. */
-.cover {
-  max-width: 40rem;
-  margin: 0 auto;
-  padding: 3rem 1.5rem;
-  background: var(--cover);
-  border-radius: 8px 14px 14px 8px;
-  box-shadow: inset 10px 0 0 rgba(0, 0, 0, 0.18), 0 4px 16px rgba(0, 0, 0, 0.25);
-  color: #ffffff;
-}
-.cover-label {
-  padding: 1.25rem 1.5rem;
-  background: var(--label);
-  color: var(--text);
-  border: 3px double var(--ink);
-  border-radius: 14px;
-}
-.cover-label h1 { text-align: center; }
-.cover-label p { margin: 0; }
-.label-field { font-family: var(--hand); font-size: 1.5rem; color: var(--ink); }
-.cover-intro { margin: 2rem 0; font-size: 1.25rem; }
-.cover-actions { display: flex; flex-direction: column; gap: 1rem; align-items: flex-start; margin: 0; }
-.cover a { color: #ffffff; }
-.cover .button {
-  display: inline-block;
-  padding: 0.5rem 1.25rem;
-  background: var(--label);
-  color: var(--ink);
-  font-family: var(--hand);
-  font-size: 1.75rem;
-  font-weight: 700;
-  text-decoration: none;
-  border-radius: 6px;
-}
+.home { text-align: center; padding-top: calc(var(--line) * 3); padding-bottom: calc(var(--line) * 3); }
+.home-title { font-size: clamp(4rem, 18vw, 8rem); line-height: 1; margin-bottom: var(--line); }
+.open-link { font-family: var(--hand); font-size: 2rem; }
 
 .search label { display: block; font-weight: 700; }
 .search input {

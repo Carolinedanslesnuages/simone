@@ -11,6 +11,7 @@ qui fait voter en 1975 la loi sur l'interruption volontaire de grossesse.
 
 - **Une femme par double page** : à gauche, qui elle est et ce qu'elle a fait, date par date ; à
   droite, sa chronique et ses sources. Sur un petit écran, les deux pages se suivent.
+- **L'accueil** : simplement « Simone », et un lien pour ouvrir le carnet.
 - **On tourne les pages** avec les liens ou les flèches du clavier. L'animation disparaît si le
   système demande de réduire les mouvements.
 - **Pas d'ordre imposé** : les chroniques paraissent de temps en temps, dans le désordre de
