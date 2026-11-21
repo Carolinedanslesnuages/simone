@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { formatDate, formatSchoolDate, isChronological, lifespan, normalize, publishedChronicles } from '../src/format.js';
+import { formatDate, formatSchoolDate, isChronological, lifespan, normalize, publishedChronicles, splitChronicle } from '../src/format.js';
 
 test('formatDate écrit les dates en français', () => {
   assert.equal(formatDate('1975-01-17'), '17 janvier 1975');
@@ -33,4 +33,13 @@ test('publishedChronicles garde les chroniques déjà parues, dans l\'ordre de p
     { name: 'C', published: '2026-12-25' },
   ];
   assert.deepEqual(publishedChronicles(women, '2026-11-21').map((woman) => woman.name), ['A', 'B']);
+});
+
+test('splitChronicle partage la chronique entre les deux pages', () => {
+  const paragraphs = ['a'.repeat(200), 'b'.repeat(200), 'c'.repeat(200), 'd'.repeat(200)];
+  const halves = splitChronicle(paragraphs);
+  assert.deepEqual([...halves.left, ...halves.right], paragraphs, 'aucun paragraphe perdu, ordre gardé');
+  assert.ok(halves.left.length >= 1 && halves.right.length >= 1, 'du texte sur chaque page');
+  assert.equal(halves.left.length, 2);
+  assert.deepEqual(splitChronicle(['seul']), { left: ['seul'], right: [] });
 });

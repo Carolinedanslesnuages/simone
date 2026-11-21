@@ -55,7 +55,8 @@ await page.waitForSelector('.sheet-left h1');
 const firstName = await page.textContent('h1');
 check('12', (await page.evaluate(() => document.activeElement.tagName)) === 'H1', 'en ouvrant le carnet, le focus est sur le nom');
 check('pages', (await page.locator('.sheet').count()) === 2, 'une femme par double page');
-check('dates', (await page.locator('time[datetime]').count()) >= 3, 'date de la chronique et des actions dans des balises <time>');
+check('dates', (await page.locator('time[datetime]').count()) === 1, 'date de la chronique dans une balise <time>');
+check('chronique', (await page.locator('.sheet-right p').count()) >= 1, 'la chronique continue sur la page de droite');
 const pageCount = Number((await page.textContent('.page-number')).match(/sur (\d+)/)[1]);
 if (pageCount > 1) {
   await page.keyboard.press('ArrowRight');
