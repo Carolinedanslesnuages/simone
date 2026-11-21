@@ -14,7 +14,7 @@ const pageIndex = computed(() => (route.value.name === 'page'
 const viewName = computed(() => (route.value.name === 'page' && pageIndex.value < 0 ? 'notFound' : route.value.name));
 
 const viewTitle = computed(() => ({
-  cover: 'Le carnet',
+  cover: 'Simone',
   page: pages[pageIndex.value]?.name,
   contents: 'Sommaire',
   about: 'À propos',
@@ -22,7 +22,7 @@ const viewTitle = computed(() => ({
 }[viewName.value]));
 
 const navigation = [
-  { name: 'cover', href: '#/', label: 'Couverture' },
+  { name: 'cover', href: '#/', label: 'Accueil' },
   { name: 'contents', href: '#/sommaire', label: 'Sommaire' },
   { name: 'about', href: '#/a-propos', label: 'À propos' },
 ];
@@ -39,7 +39,7 @@ watch(route, async () => {
   window.scrollTo(0, 0);
   document.querySelector('.page-title')?.focus();
 });
-watch(viewTitle, (title) => { document.title = `${title} · Simone`; }, { immediate: true });
+watch(viewTitle, (title) => { document.title = title === 'Simone' ? title : `${title} · Simone`; }, { immediate: true });
 </script>
 
 <template>

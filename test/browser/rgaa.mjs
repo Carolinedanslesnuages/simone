@@ -20,12 +20,12 @@ async function axeViolations(page) {
   return report.violations.map((violation) => `${violation.id} (${violation.nodes.length})`);
 }
 
-// First published page, read from the cover's "Ouvrir le carnet" link.
+// First published page, read from the home page's "Ouvrir le carnet" link.
 const page = await browser.newPage({ viewport: { width: 1280, height: 900 }, reducedMotion: 'reduce' });
 await page.goto(SITE_URL);
 await page.waitForSelector('h1');
-const firstPageHash = await page.getAttribute('a.button', 'href');
-check('couverture', /^#\/page\/[a-z0-9-]+$/.test(firstPageHash ?? ''), `« Ouvrir le carnet » mène à ${firstPageHash}`);
+const firstPageHash = await page.getAttribute('a.open-link', 'href');
+check('accueil', /^#\/page\/[a-z0-9-]+$/.test(firstPageHash ?? ''), `« Ouvrir le carnet » mène à ${firstPageHash}`);
 
 for (const colorScheme of ['light', 'dark']) {
   const themed = await browser.newPage({ viewport: { width: 1280, height: 900 }, colorScheme, reducedMotion: 'reduce' });
@@ -35,7 +35,7 @@ for (const colorScheme of ['light', 'dark']) {
     const violations = await axeViolations(themed);
     check('axe', violations.length === 0, `${hash} (${colorScheme}) sans erreur axe${violations.length ? ' : ' + violations.join(', ') : ''}`);
     if (colorScheme === 'dark') continue;
-    check('8.6', (await themed.title()).endsWith(' · Simone'), `${hash} : titre de page « ${await themed.title()} »`);
+    check('8.6', /^(Simone|.+ · Simone)$/.test(await themed.title()), `${hash} : titre de page « ${await themed.title()} »`);
     check('9.1', (await themed.locator('h1').count()) === 1, `${hash} : un seul titre de niveau 1`);
   }
   await themed.close();
@@ -50,7 +50,7 @@ await page.keyboard.press('Enter');
 check('12.7', (await page.evaluate(() => document.activeElement.id)) === 'contenu', 'le lien mène au contenu');
 
 // Turning the pages: link, then arrow keys; focus goes to the new page title.
-await page.click('a.button');
+await page.click('a.open-link');
 await page.waitForSelector('.sheet-left h1');
 const firstName = await page.textContent('h1');
 check('12', (await page.evaluate(() => document.activeElement.tagName)) === 'H1', 'en ouvrant le carnet, le focus est sur le nom');
