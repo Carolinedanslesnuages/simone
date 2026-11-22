@@ -29,3 +29,20 @@ jobs:
         with:
           fetch-depth: 0
       - uses: Carolinedanslesnuages/constance/anti-fuite@v1
+
+  ecoconception:
+    name: Écoconception (Eunice, RGESN 2024)
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Construire le site
+        run: npm run build
+      - uses: Carolinedanslesnuages/eunice@v1

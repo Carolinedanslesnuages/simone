@@ -1,0 +1,10 @@
+{
+  "dossier": "dist",
+  "budgets": {
+    "poids": 100,
+    "requetes": 10
+  },
+  "adresse": "https://carolinedanslesnuages.github.io/simone/",
+  "non-applicables": [],
+  "bloquant": true
+}
